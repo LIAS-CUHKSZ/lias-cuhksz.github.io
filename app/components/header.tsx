@@ -1,8 +1,20 @@
-import { DarkThemeToggle, Navbar } from "flowbite-react";
+import { DarkThemeToggle, Dropdown, Navbar } from "flowbite-react";
 import Image from "next/image";
-import { FC } from "react";
+import { FC, useEffect, useState } from "react";
 
 const Header: FC<Record<string, never>> = function () {
+  const [route, setRoute] = useState("");
+
+  useEffect(() => {
+    let route = window.location.pathname ?? "/";
+    route = route.split("/")[1] ?? route.replace("/", "");
+    if (route === "") {
+      setRoute("index");
+    } else {
+      setRoute(route);
+    }
+  }, []);
+
   return (
     <header className="sticky top-0 z-20">
       <Navbar fluid>
@@ -17,13 +29,40 @@ const Header: FC<Record<string, never>> = function () {
           <DarkThemeToggle />
         </div>
         <Navbar.Collapse>
-          <Navbar.Link href="/" active>
+          <Navbar.Link href="/" active={route === "index"}>
             HOME
           </Navbar.Link>
-          <Navbar.Link href="/group">GROUP</Navbar.Link>
-          <Navbar.Link href="/">PUBLICATIONS</Navbar.Link>
-          <Navbar.Link href="/">RESEARCH HIGHLIGHTS</Navbar.Link>
-          <Navbar.Link href="/">NEWS</Navbar.Link>
+          <Navbar.Link active={route === "group"}>
+            <Dropdown label="GROUP" inline>
+              <Dropdown.Item
+                onClick={() => (window.location.href = "/group/junfeng-wu")}
+              >
+                Junfeng Wu
+              </Dropdown.Item>
+              <Dropdown.Item
+                onClick={() => (window.location.href = "/group/member")}
+              >
+                Current Member
+              </Dropdown.Item>
+              <Dropdown.Item
+                onClick={() => (window.location.href = "/group/alumni")}
+              >
+                Alumni
+              </Dropdown.Item>
+            </Dropdown>
+          </Navbar.Link>
+          <Navbar.Link href="/publications" active={route === "publications"}>
+            PUBLICATIONS
+          </Navbar.Link>
+          <Navbar.Link
+            href="/research-highlights"
+            active={route === "research-highlights"}
+          >
+            RESEARCH HIGHLIGHTS
+          </Navbar.Link>
+          <Navbar.Link href="/news" active={route === "news"}>
+            NEWS
+          </Navbar.Link>
         </Navbar.Collapse>
       </Navbar>
     </header>
