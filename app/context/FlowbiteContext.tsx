@@ -1,5 +1,3 @@
-"use client";
-
 import { Flowbite } from "flowbite-react";
 import { FC, PropsWithChildren } from "react";
 import { flowbiteTheme as theme } from "../theme";

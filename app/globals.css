@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+a, p {
+    line-height: 1.75rem; /* 28px */
+}
+
+a[href^="http"] {
+    color: #3f83f8;
+    text-decoration: underline;
+}
