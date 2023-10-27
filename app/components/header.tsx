@@ -1,3 +1,4 @@
+"use client";
 import { Dropdown, Navbar } from "flowbite-react";
 import Image from "next/image";
 import { FC, useEffect, useState } from "react";

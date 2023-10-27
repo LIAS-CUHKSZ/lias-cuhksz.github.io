@@ -1,5 +1,11 @@
 import Image from "next/image";
 
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Group Members - LIAS",
+};
+
 function Page(): JSX.Element {
   return (
     <>

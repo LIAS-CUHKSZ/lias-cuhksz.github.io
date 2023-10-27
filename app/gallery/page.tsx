@@ -1,5 +1,9 @@
-"use client";
+import { Metadata } from "next";
 import Image from "next/image";
+
+export const metadata: Metadata = {
+  title: "Gallery - LIAS",
+};
 
 function Page(): JSX.Element {
   const imageList = [

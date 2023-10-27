@@ -1,6 +1,9 @@
-"use client";
-import { Carousel } from "flowbite-react";
-import Image from "next/image";
+import { Metadata } from "next";
+import Carousel from "./components/carousel";
+
+export const metadata: Metadata = {
+  title: "The Laboratory for Intelligent Autonomous Systems - LIAS",
+};
 
 export default function Index(): JSX.Element {
   return (
@@ -17,22 +20,14 @@ export default function Index(): JSX.Element {
 function HomePage(): JSX.Element {
   return (
     <div className="p-6">
-      <div className="h-[40vh] sm:h-64 xl:h-80 2xl:h-96">
-        <Carousel>
-          {[
+      <div className="md:min-h-[30vh]">
+        <Carousel
+          imageList={[
             "/images/head1.jpg",
             "/images/climbing.jpg",
             "/images/barbeque-scaled.jpg",
-          ].map((image, index) => (
-            <Image
-              alt="..."
-              src={image}
-              key={index}
-              width={1000}
-              height={800}
-            />
-          ))}
-        </Carousel>
+          ]}
+        />
       </div>
       <div className="mx-auto mt-10 max-w-5xl dark:text-white">
         <h1 className="mb-6 text-2xl font-extrabold">

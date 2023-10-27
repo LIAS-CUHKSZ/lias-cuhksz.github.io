@@ -1,4 +1,9 @@
+import { Metadata } from "next";
 import { FC } from "react";
+
+export const metadata: Metadata = {
+  title: "Group - LIAS",
+};
 
 const Page: FC<Record<string, never>> = function () {
   return (

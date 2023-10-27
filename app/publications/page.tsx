@@ -1,3 +1,9 @@
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Publications - LIAS",
+};
+
 function Page(): JSX.Element {
   return (
     <>
