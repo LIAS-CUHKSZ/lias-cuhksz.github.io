@@ -1,7 +1,7 @@
 function Page(): JSX.Element {
   return (
     <>
-      <div className="items-start justify-center mx-auto max-w-5xl p-4 my-20">
+      <div className="mx-auto my-20 max-w-5xl items-start justify-center p-4">
         Ph.D. Students
       </div>
     </>
