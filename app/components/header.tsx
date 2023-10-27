@@ -1,4 +1,4 @@
-import { DarkThemeToggle, Dropdown, Navbar } from "flowbite-react";
+import { Dropdown, Navbar } from "flowbite-react";
 import Image from "next/image";
 import { FC, useEffect, useState } from "react";
 
@@ -6,7 +6,7 @@ const Header: FC<Record<string, never>> = function () {
   const [route, setRoute] = useState("");
 
   useEffect(() => {
-    let route = window.location.pathname ?? "/";
+    let route = window.location.pathname;
     route = route.split("/")[1] ?? route.replace("/", "");
     if (route === "") {
       setRoute("index");
@@ -26,7 +26,7 @@ const Header: FC<Record<string, never>> = function () {
         </Navbar.Brand>
         <div className="flex md:order-2">
           <Navbar.Toggle />
-          <DarkThemeToggle />
+          {/* <DarkThemeToggle /> */}
         </div>
         <Navbar.Collapse>
           <Navbar.Link href="/" active={route === "index"}>
@@ -50,6 +50,9 @@ const Header: FC<Record<string, never>> = function () {
                 Alumni
               </Dropdown.Item>
             </Dropdown>
+          </Navbar.Link>
+          <Navbar.Link href="/gallery" active={route === "gallery"}>
+            GALLERY
           </Navbar.Link>
           <Navbar.Link href="/publications" active={route === "publications"}>
             PUBLICATIONS

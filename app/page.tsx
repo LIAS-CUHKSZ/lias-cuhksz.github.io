@@ -1,5 +1,6 @@
 "use client";
 import { Carousel } from "flowbite-react";
+import Image from "next/image";
 
 export default function Index(): JSX.Element {
   return (
@@ -19,11 +20,17 @@ function HomePage(): JSX.Element {
       <div className="h-[40vh] sm:h-64 xl:h-80 2xl:h-96">
         <Carousel>
           {[
-            "./images/head1.jpg",
-            "./images/climbing.jpg",
-            "./images/barbeque-scaled.jpg",
+            "/images/head1.jpg",
+            "/images/climbing.jpg",
+            "/images/barbeque-scaled.jpg",
           ].map((image, index) => (
-            <img alt="..." src={image} key={index} />
+            <Image
+              alt="..."
+              src={image}
+              key={index}
+              width={1000}
+              height={800}
+            />
           ))}
         </Carousel>
       </div>
