@@ -1,6 +1,14 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# LIAS Website
 
-Live demo: [https://flowbite-next-starter.vercel.app/](https://flowbite-next-starter.vercel.app/)
+本项目使用了 Next.js 来编写，目录结构可以参考 [Next.js 的文档](https://nextjs.org/docs/getting-started/project-structure)。
+
+如果需要新增内容，建议先将仓库拉去到本地，安装好 VScode 和 Nodejs，然后在本地进行修改，修改完成后，使用 `git` 命令将修改推送到远程仓库。
+
+有任何问题欢迎邮件联系我 [yuantuo666@gmail.com](mailto:yuantuo666@gmail.com)
+
+## 下面是默认 README.md
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 It also includes:
 
@@ -38,96 +46,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-## Add `flowbite-react` to `next` on your own
-
-Follow these steps to add `flowbite-react` to a `next` project without cloning this repo.
-
 ### Requirements
 
 - [x] [Node.js](https://nodejs.org/en/)
-
-### How-to
-
-#### Create a new `next` starter project:
-
-```sh
-npx create-next-app@latest --typescript
-cd my-app
-```
-
-#### Install `tailwindcss` and `flowbite-react`:
-
-```sh
-npm install --save autoprefixer postcss tailwindcss flowbite flowbite-react
-```
-
-#### Create `postcss.config.js`:
-
-```js
-module.exports = {
-  plugins: {
-    autoprefixer: {},
-    tailwindcss: {},
-  },
-};
-```
-
-#### Create `tailwind.config.js`:
-
-```js
-/**
- * @type {import('@types/tailwindcss/tailwind-config').TailwindConfig}
- */
-module.exports = {
-  content: [
-    "./node_modules/flowbite-react/**/*.js",
-    "./pages/**/*.{ts,tsx}",
-    "./public/**/*.html",
-  ],
-  plugins: [require("flowbite/plugin")],
-  theme: {},
-};
-```
-
-#### And replace the contents of `styles/globals.css` by:
-
-```css
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-```
-
-#### Start using `flowbite-react`!
-
-```js
-import { Alert } from "flowbite-react";
-
-export default function MyPage() {
-  return <Alert color="info">Alert!</Alert>;
-}
-```
-
-## Outstanding issues
-
-- **Carousel**s don't seem to work with [`next/image`](https://nextjs.org/docs/api-reference/next/image), so a normal `<img/>` is required, which ESLint will warn about
-- **Modal**s don't work on `next` on `react@18` because of an hydration mismatch
-
-## Learn more
-
-### About `next`
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-### About `flowbite`
-
-[Flowbite](https://flowbite.com) is an open source collection of UI components built with the utility classes from Tailwind CSS that you can use as a starting point when coding user interfaces and websites.
-
-In this repository, we setup [`flowbite-react`](https://flowbite-react.com) for you with examples of how to use the React components in `pages/index.tsx`.
 
 ## Deploy on `vercel`
 
