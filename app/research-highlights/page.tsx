@@ -645,12 +645,20 @@ doi={10.1109/TSP.2021.3053643}}`}
             <h2 className="mb-2 text-lg font-bold">Links</h2>
             <span>
               <b>Bilibili: </b>
-              <a href="https://space.bilibili.com/1412522312">
+              <a
+                target="_blank"
+                href="https://space.bilibili.com/1412522312"
+                rel="noreferrer"
+              >
                 https://space.bilibili.com/1412522312
               </a>
               <br />
               <b>GitHub: </b>
-              <a href="https://github.com/LIAS-CUHKSZ">
+              <a
+                target="_blank"
+                href="https://github.com/LIAS-CUHKSZ"
+                rel="noreferrer"
+              >
                 https://github.com/LIAS-CUHKSZ
               </a>
             </span>
