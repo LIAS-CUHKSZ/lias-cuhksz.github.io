@@ -10,7 +10,7 @@ function Page(): JSX.Element {
     <>
       <div className="mx-auto my-20 max-w-5xl items-start justify-center p-4">
         <h2 className="mb-4 text-2xl font-semibold">Research Highlights</h2>
-        <div className="grid grid-cols-1 items-stretch gap-5 md:grid-cols-2">
+        <div className="grid grid-cols-1 items-stretch gap-5">
           <div className="card max-w-full p-5">
             <h2 className="mb-2 text-lg font-bold">
               Efficient Planar Pose Estimation via UWB Measurements
@@ -24,20 +24,22 @@ function Page(): JSX.Element {
               reduces the computation time significantly compared to previous
               methods and presents the possibility of using only UWB for
               real-time state estimation.
-              <Image
-                src="/images/highlights1.png"
-                alt="photo"
-                className="my-2 w-full"
-                width={200}
-                height={200}
-              />
-              <Image
-                src="/images/highlights2.png"
-                alt="photo"
-                className="my-2 w-full"
-                width={200}
-                height={200}
-              />
+              <div className="grid grid-cols-1 gap-10 md:grid-cols-2">
+                <Image
+                  src="/images/highlights1.png"
+                  alt="photo"
+                  className="my-2 w-full"
+                  width={200}
+                  height={200}
+                />
+                <Image
+                  src="/images/highlights2.png"
+                  alt="photo"
+                  className="my-2 w-full"
+                  width={200}
+                  height={200}
+                />
+              </div>
               <b>Authors: </b>Haodong Jiang, Wentao Wang, Yuan Shen, Xinghan Li,
               Xiaoqiang Ren, Biqiang Mu, and Junfeng Wu
               <br />
@@ -273,13 +275,15 @@ organization={IEEE}
               simulations verify the correctness of our theoretical claims,
               showing that the proposed two-step estimators can asymptotically
               achieve the Cramer-Rao lower bound.
-              <Image
-                src="/images/highlights3.png"
-                alt="photo"
-                className="my-2 w-full"
-                width={200}
-                height={200}
-              />
+              <div className="flex">
+                <Image
+                  src="/images/highlights3.png"
+                  alt="photo"
+                  className="my-2 mx-auto w-[600px]"
+                  width={600}
+                  height={300}
+                />
+              </div>
               <b>Authors: </b>
               <a
                 href="https://guangyangzeng.github.io/"

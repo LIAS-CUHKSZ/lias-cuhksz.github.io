@@ -9,8 +9,8 @@ function Page(): JSX.Element {
     <>
       <div className="mx-auto my-20 max-w-5xl items-start justify-center p-4">
         <h2 className="mb-3 text-xl font-bold">Junfeng Wu</h2>
-        <div className="flex min-h-screen flex-col gap-[50px] md:flex-row">
-          <div className="flex shrink-0 flex-row gap-4 md:w-[200px] md:flex-col">
+        <div className="flex min-h-screen flex-col gap-[10px] md:flex-row">
+          <div className="flex shrink-0 flex-row gap-4 md:w-[290px] md:flex-col">
             <img
               width={200}
               src="/images/junfengwu-201x300.jpg"

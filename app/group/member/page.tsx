@@ -10,172 +10,13 @@ function Page(): JSX.Element {
   return (
     <>
       <div className="mx-auto my-20 max-w-5xl items-start justify-center p-4">
-        <h2 className="mb-4 text-2xl font-semibold">Ph.D. Students</h2>
+        <h2 className="mb-4 text-2xl font-semibold">Postdoc</h2>
         <div className="[&>*]:card grid grid-cols-2 items-stretch gap-3 sm:grid-cols-3">
-          <div>
-            <Image
-              src="/images/haoyingli2.png"
-              alt="photo"
-              className="h-52 w-full rounded-t-lg object-cover"
-              width={200}
-              height={200}
-            />
-            <div className="p-5">
-              <h4 className="mb-2 text-lg">Haoying LI (李昊颖)</h4>
-              <span className="font-normal text-gray-700 dark:text-gray-400">
-                2022/09/01 – present
-                <br />
-                B.Eng. from Zhejiang University
-                <br />
-                Research Interests: SLAM,Robot perception,sensor fusion
-              </span>
-            </div>
-          </div>
-          <div>
-            <Image
-              src="/images/haodongjiang2.jpg"
-              alt="photo"
-              className="h-52 w-full rounded-t-lg object-cover"
-              width={200}
-              height={200}
-            />
-            <div className="p-5">
-              <h4 className="mb-2 text-lg">Haodong Jiang (江昊东)</h4>
-              <span className="font-normal text-gray-700 dark:text-gray-400">
-                2021/09/01 – present
-                <br />
-                B.Eng. from Zhejiang University
-                <br />
-                Research Interests: SLAM, Probabilistic Graph
-              </span>
-            </div>
-          </div>
-          <div>
-            <Image
-              src="/images/bokangzhang2.jpg"
-              alt="photo"
-              className="h-52 w-full rounded-t-lg object-cover"
-              width={200}
-              height={200}
-            />
-            <div className="p-5">
-              <h4 className="mb-2 text-lg">Bokang ZHANG (张博康)</h4>
-              <span className="font-normal text-gray-700 dark:text-gray-400">
-                2021/09/21 – present
-                <br />
-                B.Eng. from Zhejiang University
-                <br />
-                Research Interests: AI and Cyber privacy and security
-              </span>
-            </div>
-          </div>
-          <div>
-            <Image
-              src="/images/junhujin.jpg"
-              alt="photo"
-              className="h-52 w-full rounded-t-lg object-cover"
-              width={200}
-              height={200}
-            />
-            <div className="p-5">
-              <h4 className="mb-2 text-lg">Junhu JIN (金俊虎)</h4>
-              <span className="font-normal text-gray-700 dark:text-gray-400">
-                2021/09/01 – present
-                <br />
-                B.Eng. from Zhejiang University
-                <br />
-                Research Interests: Graphic signal processing, Distributed
-                estimation, Network systems
-              </span>
-            </div>
-          </div>
-          <div>
-            <Image
-              src="/images/jianghuili2.jpg"
-              alt="photo"
-              className="h-52 w-full rounded-t-lg object-cover"
-              width={200}
-              height={200}
-            />
-            <div className="p-5">
-              <h4 className="mb-2 text-lg"> Jianhui LI (李建辉)</h4>
-              <span className="font-normal text-gray-700 dark:text-gray-400">
-                2020/09/01 - present
-                <br />
-                B.Eng. from Zhejiang University
-                <br />
-                Research Interests: Reinforcement Learning, Optimal control
-              </span>
-            </div>
-          </div>
-          <div>
-            <Image
-              src="/images/kefang2.jpg"
-              alt="photo"
-              className="h-52 w-full rounded-t-lg object-cover"
-              width={200}
-              height={200}
-            />
-            <div className="p-5">
-              <h4 className="mb-2 text-lg">Ke Fang (方科)</h4>
-              <span className="font-normal text-gray-700 dark:text-gray-400">
-                2019/09/21 – present
-                <br />
-                M Phil. from Beihang University
-                <br />
-                B.Eng. , Harbin Institute of Technology
-                <br />
-                Research Interests: Online control; Distributed control systems
-              </span>
-            </div>
-          </div>
-          <div>
-            <Image
-              src="/images/xinghanli.jpg"
-              alt="photo"
-              className="h-52 w-full rounded-t-lg object-cover"
-              width={200}
-              height={200}
-            />
-            <div className="p-5">
-              <h4 className="mb-2 text-lg">Xinhan LI (李星翰)</h4>
-              <span className="font-normal text-gray-700 dark:text-gray-400">
-                2018/09/21 – present
-                <br />
-                B.Eng. from Zhejiang University
-                <br />
-                Research Interests: SLAM；Filtering and Estimation on SE
-                <sub>n</sub>(3)
-              </span>
-            </div>
-          </div>
-          <div>
-            <Image
-              src="/images/shuaitinghuang2.jpg"
-              alt="photo"
-              className="h-52 w-full rounded-t-lg object-cover"
-              width={200}
-              height={200}
-            />
-            <div className="p-5">
-              <h4 className="mb-2 text-lg">Shuaiting HUANG (黄帅婷)</h4>
-              <span className="font-normal text-gray-700 dark:text-gray-400">
-                2018/09/21 - present
-                <br />
-                B.Eng. from Nanjing Agricultrual University
-                <br />
-                MSc from Nanjing Agricultrual University
-                <br />
-                Research Interests: Distributed state estimation; Cyber security
-                and privacy
-              </span>
-            </div>
-          </div>
           <div>
             <Image
               src="/images/zengguangyang.jpg"
               alt="photo"
-              className="h-52 w-full rounded-t-lg object-cover"
+              className="mx-auto pt-5"
               width={200}
               height={200}
             />
@@ -205,47 +46,176 @@ function Page(): JSX.Element {
           </div>
         </div>
 
-        <h2 className="mt-10 mb-4 text-2xl font-semibold">MPhil Students</h2>
+        <h2 className="mt-10 mb-4 text-2xl font-semibold">Ph.D. Students</h2>
         <div className="[&>*]:card grid grid-cols-2 items-stretch gap-3 sm:grid-cols-3">
           <div>
             <Image
-              src="/images/zengqingcheng.jpg"
+              src="/images/haoyingli2.png"
               alt="photo"
-              className="h-52 w-full rounded-t-lg object-cover"
+              className="mx-auto pt-5"
               width={200}
               height={200}
             />
             <div className="p-5">
-              <h4 className="mb-2 text-lg">Qingcheng ZENG (曾庆铖)</h4>
+              <h4 className="mb-2 text-lg">Haoying LI (李昊颖)</h4>
               <span className="font-normal text-gray-700 dark:text-gray-400">
-                2023/09/01 – present (Co-supervised with Prof.{" "}
-                <a
-                  href="https://sse.cuhk.edu.cn/en/faculty/sunzhenglong"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  Zhenglong Sun
-                </a>
-                )
+                2022/09/01 – present
                 <br />
-                B.Eng. from Hunan University
+                B.Eng. from Zhejiang University
                 <br />
-                Personal website:{" "}
-                <a
-                  href="https://neozng.github.io/"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  https://neozng.github.io/
-                </a>
+                Research Interests: SLAM,Robot perception,sensor fusion
               </span>
             </div>
           </div>
           <div>
             <Image
+              src="/images/haodongjiang2.jpg"
+              alt="photo"
+              className="mx-auto pt-5"
+              width={200}
+              height={200}
+            />
+            <div className="p-5">
+              <h4 className="mb-2 text-lg">Haodong Jiang (江昊东)</h4>
+              <span className="font-normal text-gray-700 dark:text-gray-400">
+                2021/09/01 – present
+                <br />
+                B.Eng. from Zhejiang University
+                <br />
+                Research Interests: SLAM, Probabilistic Graph
+              </span>
+            </div>
+          </div>
+          <div>
+            <Image
+              src="/images/bokangzhang2.jpg"
+              alt="photo"
+              className="mx-auto pt-5"
+              width={200}
+              height={200}
+            />
+            <div className="p-5">
+              <h4 className="mb-2 text-lg">Bokang ZHANG (张博康)</h4>
+              <span className="font-normal text-gray-700 dark:text-gray-400">
+                2021/09/21 – present
+                <br />
+                B.Eng. from Zhejiang University
+                <br />
+                Research Interests: AI and Cyber privacy and security
+              </span>
+            </div>
+          </div>
+          <div>
+            <Image
+              src="/images/junhujin.jpg"
+              alt="photo"
+              className="mx-auto pt-5"
+              width={200}
+              height={200}
+            />
+            <div className="p-5">
+              <h4 className="mb-2 text-lg">Junhu JIN (金俊虎)</h4>
+              <span className="font-normal text-gray-700 dark:text-gray-400">
+                2021/09/01 – present
+                <br />
+                B.Eng. from Zhejiang University
+                <br />
+                Research Interests: Graphic signal processing, Distributed
+                estimation, Network systems
+              </span>
+            </div>
+          </div>
+          <div>
+            <Image
+              src="/images/jianghuili2.jpg"
+              alt="photo"
+              className="mx-auto pt-5"
+              width={200}
+              height={200}
+            />
+            <div className="p-5">
+              <h4 className="mb-2 text-lg"> Jianhui LI (李建辉)</h4>
+              <span className="font-normal text-gray-700 dark:text-gray-400">
+                2020/09/01 - present
+                <br />
+                B.Eng. from Zhejiang University
+                <br />
+                Research Interests: Reinforcement Learning, Optimal control
+              </span>
+            </div>
+          </div>
+          <div>
+            <Image
+              src="/images/kefang2.jpg"
+              alt="photo"
+              className="mx-auto pt-5"
+              width={200}
+              height={200}
+            />
+            <div className="p-5">
+              <h4 className="mb-2 text-lg">Ke Fang (方科)</h4>
+              <span className="font-normal text-gray-700 dark:text-gray-400">
+                2019/09/21 – present
+                <br />
+                M Phil. from Beihang University
+                <br />
+                B.Eng. , Harbin Institute of Technology
+                <br />
+                Research Interests: Online control; Distributed control systems
+              </span>
+            </div>
+          </div>
+          <div>
+            <Image
+              src="/images/xinghanli.jpg"
+              alt="photo"
+              className="mx-auto pt-5"
+              width={200}
+              height={200}
+            />
+            <div className="p-5">
+              <h4 className="mb-2 text-lg">Xinhan LI (李星翰)</h4>
+              <span className="font-normal text-gray-700 dark:text-gray-400">
+                2018/09/21 – present
+                <br />
+                B.Eng. from Zhejiang University
+                <br />
+                Research Interests: SLAM；Filtering and Estimation on SE
+                <sub>n</sub>(3)
+              </span>
+            </div>
+          </div>
+          <div>
+            <Image
+              src="/images/shuaitinghuang2.jpg"
+              alt="photo"
+              className="mx-auto pt-5"
+              width={200}
+              height={200}
+            />
+            <div className="p-5">
+              <h4 className="mb-2 text-lg">Shuaiting HUANG (黄帅婷)</h4>
+              <span className="font-normal text-gray-700 dark:text-gray-400">
+                2018/09/21 - present
+                <br />
+                B.Eng. from Nanjing Agricultrual University
+                <br />
+                MSc from Nanjing Agricultrual University
+                <br />
+                Research Interests: Distributed state estimation; Cyber security
+                and privacy
+              </span>
+            </div>
+          </div>
+        </div>
+
+        <h2 className="mt-10 mb-4 text-2xl font-semibold">MPhil Students</h2>
+        <div className="[&>*]:card grid grid-cols-2 items-stretch gap-3 sm:grid-cols-3">
+          <div>
+            <Image
               src="/images/zhangyanglin.jpg"
               alt="photo"
-              className="h-52 w-full rounded-t-lg object-cover"
+              className="mx-auto pt-5"
               width={200}
               height={200}
             />
@@ -270,7 +240,7 @@ function Page(): JSX.Element {
             <Image
               src="/images/chenzimin.jpg"
               alt="photo"
-              className="h-52 w-full rounded-t-lg object-cover"
+              className="mx-auto pt-5"
               width={200}
               height={200}
             />
@@ -293,11 +263,15 @@ function Page(): JSX.Element {
               </span>
             </div>
           </div>
+        </div>
+
+        <h2 className="mt-10 mb-4 text-2xl font-semibold">RAs</h2>
+        <div className="[&>*]:card grid grid-cols-2 items-stretch gap-3 sm:grid-cols-3">
           <div>
             <Image
               src="/images/wangwentao.jpg"
               alt="photo"
-              className="h-52 w-full rounded-t-lg object-cover"
+              className="mx-auto pt-5"
               width={200}
               height={200}
             />
@@ -320,15 +294,11 @@ function Page(): JSX.Element {
               </span>
             </div>
           </div>
-        </div>
-
-        <h2 className="mt-10 mb-4 text-2xl font-semibold">RA</h2>
-        <div className="[&>*]:card grid grid-cols-2 items-stretch gap-3 sm:grid-cols-3">
           <div>
             <Image
               src="/images/zhaohongxu-2.jpg"
               alt="photo"
-              className="h-52 w-full rounded-t-lg object-cover"
+              className="mx-auto pt-5"
               width={200}
               height={200}
             />
@@ -343,96 +313,32 @@ function Page(): JSX.Element {
               </span>
             </div>
           </div>
-          <div>
-            <Image
-              src="/images/chengletian.jpg"
-              alt="photo"
-              className="h-52 w-full rounded-t-lg object-cover"
-              width={200}
-              height={200}
-            />
-            <div className="p-5">
-              <h4 className="mb-2 text-lg">Letian CHENG (程乐天)</h4>
-              <span className="font-normal text-gray-700 dark:text-gray-400">
-                2023/02/07 – present
-                <br />
-                Undergraduate, the Chinese University of Hong Kong, Shenzhen
-              </span>
-            </div>
-          </div>
-          <div>
-            <Image
-              src="/images/zhouyixiao.jpg"
-              alt="photo"
-              className="h-52 w-full rounded-t-lg object-cover"
-              width={200}
-              height={200}
-            />
-            <div className="p-5">
-              <h4 className="mb-2 text-lg">Yuxiao ZHOU (周昱潇)</h4>
-              <span className="font-normal text-gray-700 dark:text-gray-400">
-                2022/10/15 – present
-                <br />
-                Undergraduate, the Chinese University of Hong Kong, Shenzhen
-                <br />
-                Research Project: MaskedXGBoost with Differential Privacy
-                Guarantee
-              </span>
-            </div>
-          </div>
-          <div>
-            <Image
-              src="/images/zhenglihao.jpg"
-              alt="photo"
-              className="h-52 w-full rounded-t-lg object-cover"
-              width={200}
-              height={200}
-            />
-            <div className="p-5">
-              <h4 className="mb-2 text-lg">Lihao ZHENG (郑立昊)</h4>
-              <span className="font-normal text-gray-700 dark:text-gray-400">
-                2022/12/15 – present
-                <br />
-                Undergraduate, the Chinese University of Hong Kong, Shenzhen
-                <br />
-                Research Project: Differential Privacy in MaskedXGBoost
-              </span>
-            </div>
-          </div>
-          <div>
-            <Image
-              src="/images/huzexi.jpg"
-              alt="photo"
-              className="h-52 w-full rounded-t-lg object-cover"
-              width={200}
-              height={200}
-            />
-            <div className="p-5">
-              <h4 className="mb-2 text-lg">Zexi HU (胡泽西) </h4>
-              <span className="font-normal text-gray-700 dark:text-gray-400">
-                B.Eng. from the Chinese University of Hong Kong, ShenZhen
-              </span>
-            </div>
-          </div>
-          <div>
-            <Image
-              src="/images/chenshiyu.jpg"
-              alt="photo"
-              className="h-52 w-full rounded-t-lg object-cover"
-              width={200}
-              height={200}
-            />
-            <div className="p-5">
-              <h4 className="mb-2 text-lg">Shiyu CHEN (陈诗雨)</h4>
-              <span className="font-normal text-gray-700 dark:text-gray-400">
-                2022/1/15 – present
-                <br />
-                Undergraduate, the Chinese University of Hong Kong, Shenzhen
-                <br />
-                Research Project: Camera pose estimation
-              </span>
-            </div>
-          </div>
+        </div>
+
+        <h2 className="mt-10 mb-4 text-2xl font-semibold">Undergraduate RAs</h2>
+        <div>
+          <p>
+            5. Letian CHENG (程乐天), 2023/02/07 – present, the Chinese
+            University of Hong Kong, Shenzhen
+          </p>
+          <p>
+            4. Yixiao ZHOU (周昱潇), 2022/10/15 – present, the Chinese
+            University of Hong Kong, Shenzhen. Research Project: MaskedXGBoost
+            with Differential Privacy Guarantee
+          </p>
+          <p>
+            3. Lihao ZHENG (郑立昊), 2022/12/15 – present, the Chinese
+            University of Hong Kong, Shenzhen. Research Project: Differential
+            Privacy in MaskedXGBoost
+          </p>
+          <p>
+            2. Zexi HU (胡泽西), B.Eng. from the Chinese University of Hong
+            Kong, ShenZhen
+          </p>
+          <p>
+            1. Shiyu CHEN (陈诗雨), 2022/1/15 – present, the Chinese University
+            of Hong Kong, Shenzhen. Research Project: Camera pose estimation
+          </p>
         </div>
       </div>
     </>
