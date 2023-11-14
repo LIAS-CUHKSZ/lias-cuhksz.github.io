@@ -21,11 +21,11 @@ const Header: FC<Record<string, never>> = function () {
       <Navbar fluid>
         <Navbar.Brand href="/">
           <Image alt="Flowbite logo" height="45" src="/logo.png" width="45" />
-          <span className="my-4 self-center whitespace-nowrap px-3 text-xl font-semibold dark:text-white">
+          <span className="my-4 self-center px-3 text-xl font-semibold dark:text-white">
             The Laboratory for Intelligent Autonomous Systems
           </span>
         </Navbar.Brand>
-        <div className="flex md:order-2">
+        <div className="ml-auto flex md:order-2 md:ml-0">
           <Navbar.Toggle />
           {/* <DarkThemeToggle /> */}
         </div>

@@ -2,8 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
-a, p {
-    line-height: 1.75rem; /* 28px */
+a,
+p {
+    line-height: 1.75rem;
+    /* 28px */
+    word-wrap: break-word;
 }
 
 a[href^="http"] {

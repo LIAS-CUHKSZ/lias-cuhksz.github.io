@@ -87,7 +87,7 @@ const imageList: ImageData[] = [
 
 function Page(): JSX.Element {
   return (
-    <div className="mx-auto my-20 max-w-5xl items-start justify-center p-4">
+    <div className="mx-auto mb-20 max-w-5xl items-start justify-center p-4 md:mt-20">
       <h2 className="mb-6 text-2xl font-semibold">Gallery</h2>
 
       <div className="grid grid-cols-1 gap-6 md:grid-cols-2">

@@ -7,7 +7,7 @@ export const metadata: Metadata = {
 function Page(): JSX.Element {
   return (
     <>
-      <div className="mx-auto my-20 max-w-5xl items-start justify-center p-4">
+      <div className="mx-auto mb-20 max-w-5xl items-start justify-center p-4 md:mt-20">
         <h2 className="mb-4 text-2xl font-semibold">JOURNAL PAPERS</h2>
         <div>
           <p>

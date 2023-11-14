@@ -7,7 +7,7 @@ export const metadata: Metadata = {
 function Page(): JSX.Element {
   return (
     <>
-      <div className="mx-auto my-20 max-w-5xl items-start justify-center p-4">
+      <div className="mx-auto mb-20 max-w-5xl items-start justify-center p-4 md:mt-20">
         <h2 className="mb-3 text-xl font-bold">Junfeng Wu</h2>
         <div className="flex min-h-screen flex-col gap-[10px] md:flex-row">
           <div className="flex shrink-0 flex-row gap-4 md:w-[290px] md:flex-col">
