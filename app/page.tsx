@@ -21,13 +21,7 @@ function HomePage(): JSX.Element {
   return (
     <div className="p-6">
       <div className="md:min-h-[30vh]">
-        <Carousel
-          imageList={[
-            "/images/head1.jpg",
-            "/images/climbing.jpg",
-            "/images/barbeque-scaled.jpg",
-          ]}
-        />
+        <Carousel imageList={["/images/head1.jpg", "/images/head2.png"]} />
       </div>
       <div className="mx-auto mt-10 max-w-5xl dark:text-white">
         <h1 className="mb-6 text-2xl font-extrabold">
