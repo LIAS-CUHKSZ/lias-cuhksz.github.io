@@ -2,7 +2,11 @@
 
 本项目使用了 Next.js 来编写，目录结构可以参考 [Next.js 的文档](https://nextjs.org/docs/getting-started/project-structure)。
 
-如果需要新增内容，建议先将仓库拉去到本地，安装好 VScode 和 Nodejs，然后在本地进行修改，修改完成后，使用 `git` 命令将修改推送到远程仓库。
+如果需要新增内容，建议先将仓库拉去到本地，安装好 VScode 和 Nodejs，其中 VScode 需要安装 Eslint 插件，建议安装 yarn 包管理工具，然后在本地进行修改，修改完成后，使用 `git` 命令将修改推送到远程仓库。
+
+项目使用的是 yarn 来管理依赖。在 `git pull` 之后，需要使用 `yarn install` 来安装依赖，然后使用 `yarn dev` 来启动开发服务器。
+
+代码更新并且 `git push` 之后 GitHub 会自动进行构建，构建完成后，网站会自动更新，可以在仓库看到一个绿色的勾。如果代码存在错误或格式错误，GitHub 会自动构建失败，首页会看到一个红叉，此时需要在本地进行修改，然后再次推送。建议在本地先运行 `yarn build` 来检查代码是否存在错误，如果没有错误，再进行推送。
 
 有任何问题欢迎邮件联系我 [yuantuo666@gmail.com](mailto:yuantuo666@gmail.com)
 
