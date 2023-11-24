@@ -49,28 +49,7 @@ function Page(): JSX.Element {
       <div className="[&>*]:card grid grid-cols-1 items-stretch gap-3 sm:grid-cols-3">
         <div>
           <Image
-            src="/images/yuanshen.jpg"
-            alt="photo"
-            className="mx-auto pt-5"
-            width={200}
-            height={200}
-          />
-          <div className="p-5">
-            <h4 className="mb-2 text-lg">Yuan Shen (沈源)</h4>
-            <span className="font-normal text-gray-700 dark:text-gray-400">
-              2023/09/01 – present
-              <br />
-              B.Eng. from Nanjing University of Science and Technology
-              <br />
-              Research Interests: SLAM
-            </span>
-          </div>
-        </div>
-
-        
-        <div>
-          <Image
-            src="/images/haoyingli2.jpg"
+            src="/images/haoyingli2.png"
             alt="photo"
             className="mx-auto pt-5"
             width={200}
@@ -87,7 +66,6 @@ function Page(): JSX.Element {
             </span>
           </div>
         </div>
-
         <div>
           <Image
             src="/images/haodongjiang2.jpg"
@@ -107,7 +85,6 @@ function Page(): JSX.Element {
             </span>
           </div>
         </div>
-
         <div>
           <Image
             src="/images/bokangzhang2.jpg"
@@ -127,7 +104,6 @@ function Page(): JSX.Element {
             </span>
           </div>
         </div>
-        
         <div>
           <Image
             src="/images/junhujin.jpg"
@@ -341,41 +317,26 @@ function Page(): JSX.Element {
       <h2 className="mt-10 mb-4 text-2xl font-semibold">Undergraduate RAs</h2>
       <div>
         <p>
-          8. Jingxing GAO (高景星), 2023/9/15 – present, Master student, the Chinese University of Hong Kong, Shenzhen. B.Eng from Northeastern University. Research Project: underwater SLAM system
-        </p>
-        <p>
-          7. Hongfu WAN (万洪甫), 2023/10/15 – present, the Chinese University
-          of Hong Kong, Shenzhen. Research Project: sonar pose estimation
-        </p>
-        <p>
-          6. Chulin DAI (戴楚霖), 2023/9/5 – present, the Chinese University
-          of Hong Kong, Shenzhen. Research Project: camera pose estimation
-        </p>
-        <p>
-          5. Sijia WANG (王斯佳), 2023/9/5 – present, the Chinese University
-          of Hong Kong, Shenzhen. Research Project: robust lidar pose estimation
-        </p>
-        <p>
-          4. Letian CHENG (程乐天), 2023/02/07 – present, the Chinese University
+          5. Letian CHENG (程乐天), 2023/02/07 – present, the Chinese University
           of Hong Kong, Shenzhen
         </p>
         <p>
-          4. Letian CHENG (程乐天), 2023/02/07 – present, the Chinese University
-          of Hong Kong, Shenzhen
-        </p>
-        <p>
-          3. Yixiao ZHOU (周昱潇), 2022/10/15 – present, the Chinese University
+          4. Yixiao ZHOU (周昱潇), 2022/10/15 – present, the Chinese University
           of Hong Kong, Shenzhen. Research Project: MaskedXGBoost with
           Differential Privacy Guarantee
         </p>
         <p>
-          2. Lihao ZHENG (郑立昊), 2022/12/15 – present, the Chinese University
+          3. Lihao ZHENG (郑立昊), 2022/12/15 – present, the Chinese University
           of Hong Kong, Shenzhen. Research Project: Differential Privacy in
           MaskedXGBoost
         </p>
         <p>
-          1. Zexi HU (胡泽西), B.Eng. from the Chinese University of Hong Kong,
+          2. Zexi HU (胡泽西), B.Eng. from the Chinese University of Hong Kong,
           ShenZhen
+        </p>
+        <p>
+          1. Shiyu CHEN (陈诗雨), 2022/1/15 – present, the Chinese University of
+          Hong Kong, Shenzhen. Research Project: Camera pose estimation
         </p>
       </div>
     </div>

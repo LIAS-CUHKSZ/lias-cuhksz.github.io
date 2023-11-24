@@ -11,6 +11,11 @@ function Page(): JSX.Element {
         <h2 className="mb-4 text-2xl font-semibold">Alumni</h2>
         <div>
           <p>
+            4. Shiyu CHEN (陈诗雨), RA, 2022/1 – 2023/5, Current
+            position: Master student at the Cornell University,
+            Bachelor's degree from the Chinese University of Hong Kong, Shenzhen
+          </p>
+          <p>
             3. Kemi DING (丁克蜜), Visiting scholar, 2021/10 – 2021/12, Current
             position: Associate Professor at Southern University of Science and
             Technology, Pesonal website:{" "}
