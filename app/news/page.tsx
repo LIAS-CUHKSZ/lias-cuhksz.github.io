@@ -10,46 +10,74 @@ function Page(): JSX.Element {
       <div className="mx-auto mb-20 max-w-5xl items-start justify-center p-4 md:mt-20">
         <h2 className="mb-4 text-2xl font-semibold">News</h2>
         <div>
-          <p>A paper was accepted by ICRA (2023.01.25)</p>
+          <p> A paper was accepted by TII (2023.10.22)</p>
           <p>
-            Guangyang Zeng, Shiyu Chen, Biqiang Mu, Guodong Shi and Junfeng Wu.
-            CPnP: Consistent Pose Estimator for Perspective-n-Point Problem with
-            Bias Elimination. 2023 IEEE International Conference on Robotics and
-            Automation (ICRA), accepted.
+            Shuaiting Huang, Chengcheng Zhao, Lingying Huang, Peng Cheng,
+            Junfeng Wu and Lin Cai. Plug-and-Play Distributed Estimation of
+            Driving States in an Open Vehicle Platoon. IEEE Transactions on
+            Industrial Informatics (TII), accepted.
+            <a
+              href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424"
+              target="_blank"
+              rel="noreferrer"
+            >
+              IEEE Transactions on Industrial Informatics
+            </a>
           </p>
           <br />
           <br />
-          <p>A paper was accepted by ICRA (2023.01.25)</p>
+          <p>Prof. Shiyu Zhao visited LIAS! (2023.07.17)</p>
           <p>
-            Haodong JIANG, Wentao Wang, Yuan Shen, Xinghan Li, Xiaoqiang Ren,
-            Biqiang Mu and Junfeng Wu. Efficient Planar Pose Estimation via UWB
-            Measurements. 2023 IEEE International Conference on Robotics and
-            Automation (ICRA), accepted.
+            <a
+              href="https://www.westlake.edu.cn/faculty/shiyu-zhao.html"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Shiyu Zhao
+            </a>
           </p>
           <br />
           <br />
-          <p>A paper was accepted by ACC (2023.01.25)</p>
+          <p>Prof. Dawei Shi visited LIAS! (2023.07.15)</p>
           <p>
-            Maben Rabi, Junfeng Wu, Vyoma Singh and Karl H. Johansson.
-            Estimating a scalar log-concave random variable using a silence set
-            based probabilistic sampling. 2023 American Control Conference
-            (ACC), accepted.
+            <a
+              href="https://ac.bit.edu.cn/szdw/dsmd/bssds/58156bb085df4b82b7dae77bc20873cb.htm"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Dawei Shi
+            </a>
           </p>
           <br />
           <br />
-          <p>A paper was accepted by Automatica (2022.08.08)</p>
+          <p>A paper was accepted by CDC (2023.07.12)</p>
           <p>
-            Biqiang Mu, Tianshi Chen, He Kong, Bo Jiang, Lei Wang and Junfeng
-            Wu. On Embeddings and Inverse Embeddings of Input Design for
-            Regularized System Identification. Automatica, accepted.
+            Jianhui Li, Youcheng Niu, Shuang Li, Yuzhe Li, Jinming Xu and
+            Junfeng Wu. Inducing Desired Equilibrium in Taxi Repositioning
+            Problem with Adaptive Incentive Design. 2023 62nd IEEE Conference on
+            Decision and Control (CDC), accepted.
+            <a
+              href="https://cdc2023.ieeecss.org/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              https://cdc2023.ieeecss.org/
+            </a>
           </p>
           <br />
           <br />
-          <p>A paper was accepted by TSP (2022.07.30)</p>
           <p>
-            Guangyang Zeng, Biqiang Mu, Jiming Chen, Zhiguo Shi and Junfeng Wu.
-            Global and Asymptotically Efficient Localization from Range
-            Measurements. IEEE Transactions on Signal Processing, accepted.
+            Shiyu Chen has received the master&apos;s degree offer from Cornell
+            University, congratulations! (2023.04.01)
+          </p>
+          <p>
+            <a
+              href="https://www.cornell.edu//"
+              target="_blank"
+              rel="noreferrer"
+            >
+              https://www.cornell.edu/
+            </a>
           </p>
         </div>
       </div>
