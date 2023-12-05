@@ -49,6 +49,25 @@ function Page(): JSX.Element {
       <div className="[&>*]:card grid grid-cols-1 items-stretch gap-3 sm:grid-cols-3">
         <div>
           <Image
+            src="/images/yuanshen.jpg"
+            alt="photo"
+            className="mx-auto pt-5"
+            width={200}
+            height={200}
+          />
+          <div className="p-5">
+            <h4 className="mb-2 text-lg">Yuan SHEN (沈源)</h4>
+            <span className="font-normal text-gray-700 dark:text-gray-400">
+              2023/09/01 – present
+              <br />
+              B.Eng. from Nanjing University of Science and Technology
+              <br />
+              Research Interests: SLAM
+            </span>
+          </div>
+        </div>
+        <div>
+          <Image
             src="/images/haoyingli2.png"
             alt="photo"
             className="mx-auto pt-5"
@@ -75,7 +94,7 @@ function Page(): JSX.Element {
             height={200}
           />
           <div className="p-5">
-            <h4 className="mb-2 text-lg">Haodong Jiang (江昊东)</h4>
+            <h4 className="mb-2 text-lg">Haodong JIANG(江昊东)</h4>
             <span className="font-normal text-gray-700 dark:text-gray-400">
               2021/09/01 – present
               <br />
