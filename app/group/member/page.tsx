@@ -317,26 +317,22 @@ function Page(): JSX.Element {
       <h2 className="mt-10 mb-4 text-2xl font-semibold">Undergraduate RAs</h2>
       <div>
         <p>
-          5. Letian CHENG (程乐天), 2023/02/07 – present, the Chinese University
+          4. Letian CHENG (程乐天), 2023/02/07 – present, the Chinese University
           of Hong Kong, Shenzhen
         </p>
         <p>
-          4. Yixiao ZHOU (周昱潇), 2022/10/15 – present, the Chinese University
+          3. Yixiao ZHOU (周昱潇), 2022/10/15 – present, the Chinese University
           of Hong Kong, Shenzhen. Research Project: MaskedXGBoost with
           Differential Privacy Guarantee
         </p>
         <p>
-          3. Lihao ZHENG (郑立昊), 2022/12/15 – present, the Chinese University
+          2. Lihao ZHENG (郑立昊), 2022/12/15 – present, the Chinese University
           of Hong Kong, Shenzhen. Research Project: Differential Privacy in
           MaskedXGBoost
         </p>
         <p>
-          2. Zexi HU (胡泽西), B.Eng. from the Chinese University of Hong Kong,
+          1. Zexi HU (胡泽西), B.Eng. from the Chinese University of Hong Kong,
           ShenZhen
-        </p>
-        <p>
-          1. Shiyu CHEN (陈诗雨), 2022/1/15 – present, the Chinese University of
-          Hong Kong, Shenzhen. Research Project: Camera pose estimation
         </p>
       </div>
     </div>
