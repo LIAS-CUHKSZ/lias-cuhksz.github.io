@@ -16,6 +16,7 @@ function Page(): JSX.Element {
             Junfeng Wu and Lin Cai. Plug-and-Play Distributed Estimation of
             Driving States in an Open Vehicle Platoon. IEEE Transactions on
             Industrial Informatics (TII), accepted.
+            <br></br>
             <a
               href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424"
               target="_blank"
@@ -56,6 +57,7 @@ function Page(): JSX.Element {
             Junfeng Wu. Inducing Desired Equilibrium in Taxi Repositioning
             Problem with Adaptive Incentive Design. 2023 62nd IEEE Conference on
             Decision and Control (CDC), accepted.
+            <br></br>
             <a
               href="https://cdc2023.ieeecss.org/"
               target="_blank"
