@@ -317,8 +317,7 @@ function Page(): JSX.Element {
       <h2 className="mt-10 mb-4 text-2xl font-semibold">Undergraduate RAs</h2>
       <div>
         <p>
-          8. Jingxing GAO (高景星), 2023/9/15 – present, Master student, the Chinese University of Hong Kong, Shenzhen. 
-          B.Eng from Northeastern University. Research Project: underwater SLAM system
+          8. Jingxing GAO (高景星), 2023/9/15 – present, Master student, the Chinese University of Hong Kong, Shenzhen. B.Eng from Northeastern University. Research Project: underwater SLAM system
         </p>
         <p>
           7. Hongfu WAN (万洪甫), 2023/10/15 – present, the Chinese University
