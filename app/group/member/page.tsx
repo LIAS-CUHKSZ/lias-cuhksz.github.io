@@ -317,19 +317,21 @@ function Page(): JSX.Element {
       <h2 className="mt-10 mb-4 text-2xl font-semibold">Undergraduate RAs</h2>
       <div>
         <p>
-          8. Jingxing GAO (高景星), 2023/9/15 – present, Master student, the Chinese University of Hong Kong, Shenzhen. B.Eng from Northeastern University. Research Project: underwater SLAM system
+          8. Jingxing GAO (高景星), 2023/9/15 – present, Master student, the
+          Chinese University of Hong Kong, Shenzhen. B.Eng from Northeastern
+          University. Research Project: underwater SLAM system
         </p>
         <p>
           7. Hongfu WAN (万洪甫), 2023/10/15 – present, the Chinese University
           of Hong Kong, Shenzhen. Research Project: sonar pose estimation
         </p>
         <p>
-          6. Chulin DAI (戴楚霖), 2023/9/5 – present, the Chinese University
-          of Hong Kong, Shenzhen. Research Project: camera pose estimation
+          6. Chulin DAI (戴楚霖), 2023/9/5 – present, the Chinese University of
+          Hong Kong, Shenzhen. Research Project: camera pose estimation
         </p>
         <p>
-          5. Sijia WANG (王斯佳), 2023/9/5 – present, the Chinese University
-          of Hong Kong, Shenzhen. Research Project: robust lidar pose estimation
+          5. Sijia WANG (王斯佳), 2023/9/5 – present, the Chinese University of
+          Hong Kong, Shenzhen. Research Project: robust lidar pose estimation
         </p>
         <p>
           4. Letian CHENG (程乐天), 2023/02/07 – present, the Chinese University
