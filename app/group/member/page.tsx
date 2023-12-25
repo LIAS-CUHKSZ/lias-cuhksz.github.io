@@ -231,7 +231,7 @@ function Page(): JSX.Element {
       <div className="[&>*]:card grid grid-cols-1 items-stretch gap-3 sm:grid-cols-3">
         <div>
           <Image
-            src="/images/zhangyanglin.jpg"
+            src="/images/lucky.jepg"
             alt="photo"
             className="mx-auto pt-5"
             width={200}
