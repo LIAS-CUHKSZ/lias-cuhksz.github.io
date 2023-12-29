@@ -336,37 +336,33 @@ function Page(): JSX.Element {
       <h2 className="mt-10 mb-4 text-2xl font-semibold">Undergraduate RAs</h2>
       <div>
         <p>
-          8. Ruochen HUANG (黄若尘), 2023/9/16 – present, the Chinese University
+          7. Ruochen HUANG (黄若尘), 2023/9/16 – present, the Chinese University
           of Hong Kong, Shenzhen. Research Project: Privacy issue in NeRF
         </p>
         <p>
-          7. Jinglan YANG (杨景兰), 2023/5/10 – present, the Chinese University
+          6. Jinglan YANG (杨景兰), 2023/5/10 – present, the Chinese University
           of Hong Kong, Shenzhen. Research Project: Privacy issue in NeRF
         </p>
         <p>
-          6. Jingxing GAO (高景星), 2023/9/15 – present, Master student, the
+          5. Jingxing GAO (高景星), 2023/9/15 – present, Master student, the
           Chinese University of Hong Kong, Shenzhen. B.Eng from Northeastern
           University. Research Project: underwater SLAM system
         </p>
         <p>
-          5. Hongfu WAN (万洪甫), 2023/10/15 – present, the Chinese University
+          4. Hongfu WAN (万洪甫), 2023/10/15 – present, the Chinese University
           of Hong Kong, Shenzhen. Research Project: sonar pose estimation
         </p>
         <p>
-          4. Chulin DAI (戴楚霖), 2023/9/5 – present, the Chinese University of
+          3. Chulin DAI (戴楚霖), 2023/9/5 – present, the Chinese University of
           Hong Kong, Shenzhen. Research Project: camera pose estimation
         </p>
         <p>
-          3. Sijia WANG (王斯佳), 2023/9/5 – present, the Chinese University of
+          2. Sijia WANG (王斯佳), 2023/9/5 – present, the Chinese University of
           Hong Kong, Shenzhen. Research Project: robust lidar pose estimation
         </p>
         <p>
-          2. Letian CHENG (程乐天), 2023/02/07 – present, the Chinese University
+          1. Letian CHENG (程乐天), 2023/02/07 – present, the Chinese University
           of Hong Kong, Shenzhen
-        </p>
-        <p>
-          1. Zexi HU (胡泽西), B.Eng. from the Chinese University of Hong Kong,
-          ShenZhen
         </p>
       </div>
     </div>
