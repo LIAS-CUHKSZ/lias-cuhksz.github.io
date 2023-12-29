@@ -11,6 +11,23 @@ function Page(): JSX.Element {
         <h2 className="mb-4 text-2xl font-semibold">JOURNAL PAPERS</h2>
         <div>
           <p>
+            [46]Lingying Huang, Junfeng Wu, Dawei Shi, Subhrakanti Dey, Ling
+            Shi. “Differential Privacy in Distributed Optimization with Gradient
+            Tracking”, IEEE Transactions on Automatic Control(TAC), accepted.
+          </p>
+          <p>
+            [45]Guangyang Zeng, Biqiang Mu, Ling Shi, Jiming Chen and Junfeng
+            Wu. “Consistent and Asymptotically Efficient Localization from
+            Range-Difference Measurements”, IEEE Transactions on Information
+            Theory (TIT), accepted.
+          </p>
+          <p>
+            [44]Shuaiting Huang, Chengcheng Zhao, Lingying Huang, Peng Cheng,
+            Junfeng Wu and Lin Cai. “Plug-and-Play Distributed Estimation of
+            Driving States in an Open Vehicle Platoon”, IEEE Transactions on
+            Industrial Informatics (TII), accepted.
+          </p>
+          <p>
             [43]Guangyang Zeng, Biqiang Mu, Jiming Chen, Zhiguo Shi and Junfeng
             Wu. “Global and Asymptotically Efficient Localization from Range
             Measurements”, IEEE Transactions on Signal Processing, accepted.
