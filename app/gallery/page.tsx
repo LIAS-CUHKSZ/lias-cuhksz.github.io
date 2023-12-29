@@ -94,19 +94,11 @@ const imageList: ImageData[] = [
       <>
         Junfeng&#39;s visit to NTU. From left to right: Ziliang Lv (Ph.D.
         student at{" "}
-        <a
-          href="https://en.tongji.edu.cn/"
-          target="_blank"
-          rel="noreferrer"
-        >
+        <a href="https://en.tongji.edu.cn/" target="_blank" rel="noreferrer">
           Tongji University
         </a>
         ), Junfeng, Lingying Huang (Postdoc at{" "}
-        <a 
-          href="https://www.ntu.edu.sg/"
-          target="_blank"
-          rel="noreferrer"
-        >
+        <a href="https://www.ntu.edu.sg/" target="_blank" rel="noreferrer">
           NTU
         </a>
         ). @NTU, Singapore, December 2023.
@@ -119,19 +111,11 @@ const imageList: ImageData[] = [
       <>
         Junfeng and Xinghan&#39;s visit to NUS. From left to right: Wanze Li,
         Sipu Ruan, Junfeng, Gregory S. Chirikjian (host at{" "}
-        <a
-          href="https://www.nus.edu.sg/"
-          target="_blank"
-          rel="noreferrer"
-        >
+        <a href="https://www.nus.edu.sg/" target="_blank" rel="noreferrer">
           NUS
         </a>
         ), Hao Su (visitor from{" "}
-        <a 
-          href="https://www.ncsu.edu/"
-          target="_blank"
-          rel="noreferrer"
-        >
+        <a href="https://www.ncsu.edu/" target="_blank" rel="noreferrer">
           NC State University
         </a>
         ), Jikai Ye, Xinghan. @NUS, Singapore, December 2023.
