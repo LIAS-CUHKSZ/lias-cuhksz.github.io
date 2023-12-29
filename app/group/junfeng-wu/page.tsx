@@ -246,7 +246,7 @@ function Page(): JSX.Element {
 
             <div className="ml-4">
               <p>
-                ● Invitational Fellowships for Research in Japan,{" "}
+                ● Invitational Fellowship for Research in Japan,{" "}
                 <a
                   href="https://www.jsps.go.jp/english/"
                   target="_blank"
@@ -517,7 +517,7 @@ function Page(): JSX.Element {
                 </a>
               </p>
               <p>
-                At Zhejiang University, I teach the following courses: <br />
+                At Zhejiang University, I taught the following courses: <br />
                 Summer 2019, Stochastic Control Systems, (co-taught with Prof.{" "}
                 <a
                   target="_blank"
