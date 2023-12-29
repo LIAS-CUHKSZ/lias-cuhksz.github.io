@@ -92,7 +92,8 @@ const imageList: ImageData[] = [
     src: "/images/gallary-20231229-2.jpg",
     caption: (
       <>
-        Junfeng&#39;s visit to NTU. From left to right: Ziliang Lv (Ph.D. student at{" "}
+        Junfeng&#39;s visit to NTU. From left to right: Ziliang Lv (Ph.D.
+        student at{" "}
         <a
           href="https://en.tongji.edu.cn/"
           target="_blank"
@@ -116,7 +117,8 @@ const imageList: ImageData[] = [
     src: "/images/gallary-20231229-3.jpg",
     caption: (
       <>
-        Junfeng and Xinghan&#39;s visit to NUS. From left to right: Wanze Li, Sipu Ruan, Junfeng, Gregory S. Chirikjian (host at{" "}
+        Junfeng and Xinghan&#39;s visit to NUS. From left to right: Wanze Li,
+        Sipu Ruan, Junfeng, Gregory S. Chirikjian (host at{" "}
         <a
           href="https://www.nus.edu.sg/"
           target="_blank"
@@ -138,13 +140,12 @@ const imageList: ImageData[] = [
   },
   {
     src: "/images/gallary-20231229-4.jpg",
-    caption: 
+    caption:
       "Retreat. From left to right: Guangyang, Haodong, Bokang, Junfeng, Xinghan, Hongxu, Wentao, Haoying. @Dongguan(东莞), December 2023.",
   },
   {
     src: "/images/gallary-20231229-5.jpg",
-    caption: 
-      "Junfeng at MAT3007 class. @CUHKSZ, Shenzhen, August 2023.",
+    caption: "Junfeng at MAT3007 class. @CUHKSZ, Shenzhen, August 2023.",
   },
 ];
 
