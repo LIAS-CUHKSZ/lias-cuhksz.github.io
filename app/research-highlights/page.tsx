@@ -70,7 +70,7 @@ function Page(): JSX.Element {
                 https://github.com/SLAMLab-CUHKSZ/Efficient-Pose-Estimation-via-UWB-measurements
               </a>
               <br />
-              <b>Publication</b>
+              <b>Citation:</b>
               <div className="relative overflow-x-auto rounded-sm bg-gray-100 p-3 dark:bg-gray-700">
                 <pre>
                   {`@article{jiang2022efficient,
