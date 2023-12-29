@@ -10,6 +10,14 @@ function Page(): JSX.Element {
       <h2 className="mb-4 text-2xl font-semibold">Alumni</h2>
       <div>
         <p>
+          7. Yixiao ZHOU (周昱潇), 2022/10 – 2023/6, RA, Current position: the
+          Chinese University of Hong Kong, Shenzhen.
+        </p>
+        <p>
+          6. Lihao ZHENG (郑立昊), 2022/12 – 2023/10, RA, Current position: the
+          Chinese University of Hong Kong, Shenzhen.
+        </p>
+        <p>
           5. Ruobing HAN (韩若冰), RA, 2023/1 – 2023/7, Current position:
           Undergraduate student at the Chinese University of Hong Kong, Shenzhen
         </p>
