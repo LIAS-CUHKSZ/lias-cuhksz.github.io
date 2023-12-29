@@ -25,7 +25,7 @@ function Page(): JSX.Element {
             </a>
           </p>
           <p>
-            ● Junfeng will serve as an Associate Editor for 
+            ● Junfeng will serve as an Associate Editor for{" "}
             <a
               href="https://ccta2024.ieeecss.org/"
               target="_blank"
@@ -36,7 +36,7 @@ function Page(): JSX.Element {
             (2023.12.22)
           </p>
           <p>
-            ● Junfeng, Xianghan and Jianhui attended 
+            ● Junfeng, Xianghan and Jianhui attended{" "}
             <a
               href="https://cdc2023.ieeecss.org/"
               target="_blank"
