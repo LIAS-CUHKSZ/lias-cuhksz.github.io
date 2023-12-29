@@ -83,6 +83,66 @@ const imageList: ImageData[] = [
       </>
     ),
   },
+  {
+    src: "/images/gallary-20231229-1.jpg",
+    caption: "Field experiment at dusk. From left to right: Wentao, Hongxu, Haodong. @Qingdao, Shandong, December 2023.",
+  },
+  {
+    src: "/images/gallary-20231229-2.jpg",
+    caption: (
+      <>
+      Junfeng's visit to NTU. From left to right: Ziliang Lv (Ph.D. student at{" "}
+      <a
+        href="https://en.tongji.edu.cn/"
+        target="_blank"
+        rel="noreferrer"
+      >
+        Tongji University
+      </a>
+      ) , Junfeng, Lingying Huang (Postdoc at{" "}
+      <a 
+        href="https://www.ntu.edu.sg/"
+        target="_blank"
+        rel="noreferrer"
+      >
+        NTU
+      </a>
+      ). @NTU, Singapore, December 2023.
+      </>
+    ),
+  },
+  {
+    src: "/images/gallary-20231229-3.jpg",
+    caption: (
+      <>
+      Junfeng and Xinghan's visit to NUS. From left to right: Wanze Li, Sipu Ruan, Junfeng, Gregory S. Chirikjian (host at{" "}
+      <a
+        href="https://www.nus.edu.sg/"
+        target="_blank"
+        rel="noreferrer"
+      >
+        NUS
+      </a>
+      ), Hao Su (visitor from{" "}
+      <a 
+        href="https://www.ncsu.edu/"
+        target="_blank"
+        rel="noreferrer"
+      >
+        NC State University
+      </a>
+      ), Jikai Ye, Xinghan. @NUS, Singapore, December 2023.
+      </>
+    ),
+  },
+  {
+    src: "/images/gallary-20231229-4.jpg",
+    caption: "Retreat. From left to right: Guangyang, Haodong, Bokang, Junfeng, Xinghan, Hongxu, Wentao, Haoying. @Dongguan(东莞), December 2023.",
+  },
+  {
+    src: "/images/gallary-20231229-5.jpg",
+    caption: "Junfeng at MAT3007 class. @CUHKSZ, Shenzhen, August 2023.",
+  },
 ];
 
 function Page(): JSX.Element {
@@ -90,7 +150,7 @@ function Page(): JSX.Element {
     <div className="mx-auto mb-20 max-w-5xl items-start justify-center p-4 md:mt-20">
       <h2 className="mb-6 text-2xl font-semibold">Gallery</h2>
 
-      <div className="grid grid-cols-1 gap-6 md:grid-cols-2">
+      <div className="grid grid-cols-1 gap-6 md:grid-cols-3">
         {imageList.map(({ src, caption }, i) => (
           <div key={i}>
             <a
