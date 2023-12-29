@@ -59,7 +59,7 @@ function Page(): JSX.Element {
           <p>
             [38] Guangyang Zeng, Xiaoqiang Ren, and Junfeng Wu, “Low-complexity
             Distributed Detection with One-bit Memory Under Neyman-Pearson
-            Criterion”, IEEE Transactions on Control of Network Sys-tems, 2022,
+            Criterion”, IEEE Transactions on Control of Network Systems, 2022,
             Early Access. DOI: 10.1109/TCNS.2022.3141020.
           </p>
           <p>
