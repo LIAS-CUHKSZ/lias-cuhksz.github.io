@@ -10,11 +10,15 @@ function Page(): JSX.Element {
       <h2 className="mb-4 text-2xl font-semibold">Alumni</h2>
       <div>
         <p>
-          7. Yixiao ZHOU (周昱潇), 2022/10 – 2023/6, RA, Current position: the
+          8. Qingcheng Zeng, RA, 2023/06 - 2023/09, Current Position: MPhil 
+          student, the Hong Kong University of Science and Technology (Guangzhou)
+        </p>
+        <p>
+          7. Yixiao ZHOU (周昱潇), RA, 2022/10 – 2023/6, Current position: the
           Chinese University of Hong Kong, Shenzhen.
         </p>
         <p>
-          6. Lihao ZHENG (郑立昊), 2022/12 – 2023/10, RA, Current position: the
+          6. Lihao ZHENG (郑立昊), RA, 2022/12 – 2023/10, Current position: the
           Chinese University of Hong Kong, Shenzhen.
         </p>
         <p>
