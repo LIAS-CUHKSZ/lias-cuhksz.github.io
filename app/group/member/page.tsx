@@ -344,8 +344,7 @@ function Page(): JSX.Element {
             <span className="font-normal text-gray-700 dark:text-gray-400">
               2023/9/15 - present
               <br />
-              Master student, the Chinese University of Hong Kong,
-              Shenzhen
+              Master student, the Chinese University of Hong Kong, Shenzhen
               <br />
               B.Eng from Northeastern University.
             </span>
