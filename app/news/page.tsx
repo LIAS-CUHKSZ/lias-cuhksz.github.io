@@ -45,8 +45,8 @@ function Page(): JSX.Element {
               CDC2023
             </a>
             (2023.12.10-15), and Junfeng visited Prof. Gregory S. Chirikjian and
-            Prof. Ling Zhao's research group at NUS and visited Prof. Lihua
-            Xie's group at NTU (2023.12.18-20).
+            Prof. Ling Zhao&#39;s research group at NUS and visited Prof. Lihua
+            Xie&#39;s group at NTU (2023.12.18-20).
           </p>
           <p>● A paper was accepted by TIT (2023.12.5)</p>
           <p>
