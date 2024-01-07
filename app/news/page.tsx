@@ -14,15 +14,15 @@ function Page(): JSX.Element {
           <p>
             Lingying Huang, Junfeng Wu, Dawei Shi, Subhrakanti Dey, Ling Shi.
             Differential Privacy in Distributed Optimization with Gradient
-            Tracking. IEEE Transactions on Automatic Control(TAC), accepted.
-            <br></br>
+            Tracking.{" "}
             <a
               href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9"
               target="_blank"
               rel="noreferrer"
             >
-              IEEE Transactions on Automatic Control
+              IEEE Transactions on Automatic Control (TAC)
             </a>
+            , accepted.
           </p>
           <p>
             ● Junfeng will serve as an Associate Editor for{" "}
@@ -45,38 +45,36 @@ function Page(): JSX.Element {
               CDC2023
             </a>
             (2023.12.10-15), and Junfeng visited Prof. Gregory S. Chirikjian and
-            Prof. Ling Zhao’s research group at NUS and visited Prof. Lihua
-            Xie’s group at NTU (2023.12.18-20).
+            Prof. Ling Zhao's research group at NUS and visited Prof. Lihua
+            Xie's group at NTU (2023.12.18-20).
           </p>
           <p>● A paper was accepted by TIT (2023.12.5)</p>
           <p>
             Guangyang Zeng, Biqiang Mu, Ling Shi, Jiming Chen and Junfeng Wu.
             Consistent and Asymptotically Efficient Localization from
-            Range-Difference Measurements. IEEE Transactions on Information
-            Theory (TIT), accepted.
-            <br></br>
+            Range-Difference Measurements.{" "}
             <a
               href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18"
               target="_blank"
               rel="noreferrer"
             >
-              IEEE Transactions on Information Theory
+              IEEE Transactions on Information Theory (TIT)
             </a>
+            , accepted.
           </p>
           <p>● A paper was accepted by TII (2023.10.22)</p>
           <p>
             Shuaiting Huang, Chengcheng Zhao, Lingying Huang, Peng Cheng,
             Junfeng Wu and Lin Cai. Plug-and-Play Distributed Estimation of
-            Driving States in an Open Vehicle Platoon. IEEE Transactions on
-            Industrial Informatics (TII), accepted.
-            <br></br>
+            Driving States in an Open Vehicle Platoon.{" "}
             <a
-              href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424"
+              href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18"
               target="_blank"
               rel="noreferrer"
             >
-              IEEE Transactions on Industrial Informatics
+              IEEE Transactions on Information Theory (TIT)
             </a>
+            , accepted.
           </p>
         </div>
       </div>
