@@ -323,11 +323,50 @@ function Page(): JSX.Element {
           <div className="p-5">
             <h4 className="mb-2 text-lg">Hongxu ZHAO (赵洪旭)</h4>
             <span className="font-normal text-gray-700 dark:text-gray-400">
-              2023/3/10 – present
+              2023/3/10 - present
               <br />
               MPhil. from University of California, Berkeley
               <br />
               B.S. from Case Western Reserve University
+            </span>
+          </div>
+        </div>
+        <div>
+          <Image
+            src="/images/gaojingxing.jpg"
+            alt="photo"
+            className="mx-auto pt-5"
+            width={200}
+            height={200}
+          />
+          <div className="p-5">
+            <h4 className="mb-2 text-lg">Jingxing GAO (高景星)</h4>
+            <span className="font-normal text-gray-700 dark:text-gray-400">
+              2023/9/15 - present
+              <br />
+              Master student, the Chinese University of Hong Kong,
+              Shenzhen
+              <br />
+              B.Eng from Northeastern University.
+            </span>
+          </div>
+        </div>
+        <div>
+          <Image
+            src="/images/pengjingchao.jpg"
+            alt="photo"
+            className="mx-auto pt-5"
+            width={200}
+            height={200}
+          />
+          <div className="p-5">
+            <h4 className="mb-2 text-lg">Jingchao PENG (彭靖超)</h4>
+            <span className="font-normal text-gray-700 dark:text-gray-400">
+              2023/9/15 - present
+              <br />
+              Master, the Chinese University of Hong Kong, Shenzhen.
+              <br />
+              B.Eng from City University of Hong Kong.
             </span>
           </div>
         </div>
@@ -336,32 +375,41 @@ function Page(): JSX.Element {
       <h2 className="mt-10 mb-4 text-2xl font-semibold">Undergraduate RAs</h2>
       <div>
         <p>
-          7. Ruochen HUANG (黄若尘), 2023/9/16 – present, the Chinese University
+          9. Yuze HONG (洪昱泽), 2023/12/1 - present, B.Eng. from Zhejiang
+          University
+        </p>
+        <p>
+          8. Yuzhe WANG (王俣哲), 2023/9/1 - present, the Chinese University of
+          Hong Kong, Shenzhen. Research Project: Cross-Source Point Cloud
+          Registration
+        </p>
+        <p>
+          7. Yiqian LI (李忆芊), 2023/9/1 - present, the Chinese University of
+          Hong Kong, Shenzhen. Research Project: Cross-Source Point Cloud
+          Registration
+        </p>
+        <p>
+          6. Ruochen HUANG (黄若尘), 2023/9/16 - present, the Chinese University
           of Hong Kong, Shenzhen. Research Project: Privacy issue in NeRF
         </p>
         <p>
-          6. Jinglan YANG (杨景兰), 2023/5/10 – present, the Chinese University
+          5. Jinglan YANG (杨景兰), 2023/5/10 - present, the Chinese University
           of Hong Kong, Shenzhen. Research Project: Privacy issue in NeRF
         </p>
         <p>
-          5. Jingxing GAO (高景星), 2023/9/15 – present, Master student, the
-          Chinese University of Hong Kong, Shenzhen. B.Eng from Northeastern
-          University. Research Project: underwater SLAM system
-        </p>
-        <p>
-          4. Hongfu WAN (万洪甫), 2023/10/15 – present, the Chinese University
+          4. Hongfu WAN (万洪甫), 2023/10/15 - present, the Chinese University
           of Hong Kong, Shenzhen. Research Project: sonar pose estimation
         </p>
         <p>
-          3. Chulin DAI (戴楚霖), 2023/9/5 – present, the Chinese University of
+          3. Chulin DAI (戴楚霖), 2023/9/5 - present, the Chinese University of
           Hong Kong, Shenzhen. Research Project: camera pose estimation
         </p>
         <p>
-          2. Sijia WANG (王斯佳), 2023/9/5 – present, the Chinese University of
+          2. Sijia WANG (王斯佳), 2023/9/5 - present, the Chinese University of
           Hong Kong, Shenzhen. Research Project: robust lidar pose estimation
         </p>
         <p>
-          1. Letian CHENG (程乐天), 2023/02/07 – present, the Chinese University
+          1. Letian CHENG (程乐天), 2023/02/07 - present, the Chinese University
           of Hong Kong, Shenzhen
         </p>
       </div>
