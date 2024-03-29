@@ -11,6 +11,17 @@ function Page(): JSX.Element {
         <h2 className="mb-4 text-2xl font-semibold">JOURNAL PAPERS</h2>
         <div>
           <p>
+            [48]Jianqi Chen, Junfeng Wu, Jie Chen, Small-Gain Criteria for
+            Mean-Square Stability of Random Delay Systems, Automatica, accepted.
+          </p>
+          <p>
+            [47]Jiang Wang, Yuanzheng He, Daobilige Su, Katsutoshi Itoyama,
+            Kazuhiro Nakadai, Junfeng Wu, Shoudong Huang, You-Fu Li, He Kong,
+            SLAM-based Joint Calibration of Multiple Asynchronous Microphone
+            Arrays and Sound Source Localization, IEEE Transactions on Robotics,
+            conditionally accepted.
+          </p>
+          <p>
             [46]Lingying Huang, Junfeng Wu, Dawei Shi, Subhrakanti Dey, Ling
             Shi. “Differential Privacy in Distributed Optimization with Gradient
             Tracking”, IEEE Transactions on Automatic Control(TAC), accepted.
@@ -285,7 +296,7 @@ function Page(): JSX.Element {
         <div>
           <p>
             [29] Jianhui Li, Youcheng Niu, Shuang Li, Yuzhe Li, Jinming Xu and
-            Junfeng Wu. “Inducing Desired Equilibrium in Taxi Repositioning 
+            Junfeng Wu. “Inducing Desired Equilibrium in Taxi Repositioning
             Problem with Adaptive Incentive Design”, 2023 62nd IEEE Conference
             on Decision and Control (CDC).
           </p>

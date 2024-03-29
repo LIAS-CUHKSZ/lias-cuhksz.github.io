@@ -10,6 +10,19 @@ function Page(): JSX.Element {
       <div className="mx-auto mb-20 max-w-5xl items-start justify-center p-4 md:mt-20">
         <h2 className="mb-4 text-2xl font-semibold">News</h2>
         <div>
+          <p>● A paper was accepted by Automatica(2024.03.26).</p>
+          <p>
+            Jianqi Chen, Junfeng Wu, Jie Chen, Small-Gain Criteria for
+            Mean-Square Stability of Random Delay Systems, Automatica, accepted
+          </p>
+          <p>● A paper was conditionally accepted by TRO(2024.02.27).</p>
+          <p>
+            Liang Wang, Yuanzheng He, Daobilige Su, Katsutoshi Itoyama, Kazuhiro
+            Nakadai, Junfeng Wu, Shoudong Huang, You-Fu Li, He Kong, SLAM-based
+            Joint Calibration of Multiple Asynchronous Microphone Arrays and
+            Sound Source Localization, IEEE Transactions on Robotics,
+            conditionally accepted.
+          </p>
           <p>● A paper was accepted by TAC as a regular paper(2023.12.29).</p>
           <p>
             Lingying Huang, Junfeng Wu, Dawei Shi, Subhrakanti Dey, Ling Shi.
