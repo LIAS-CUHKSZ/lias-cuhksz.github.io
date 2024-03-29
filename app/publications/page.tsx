@@ -284,6 +284,12 @@ function Page(): JSX.Element {
         </h2>
         <div>
           <p>
+            [29] Jianhui Li, Youcheng Niu, Shuang Li, Yuzhe Li, Jinming Xu and
+            Junfeng Wu. "Inducing Desired Equilibrium in Taxi Repositioning 
+            Problem with Adaptive Incentive Design", 2023 62nd IEEE Conference
+            on Decision and Control (CDC).
+          </p>
+          <p>
             [28] Guangyang Zeng, Shiyu Chen, Biqiang Mu, Guodong Shi and Junfeng
             Wu. “CPnP: Consistent Pose Estimator for Perspective-n-Point Problem
             with Bias Elimination”, 2023 IEEE International Conference on
