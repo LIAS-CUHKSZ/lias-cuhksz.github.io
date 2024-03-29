@@ -285,8 +285,8 @@ function Page(): JSX.Element {
         <div>
           <p>
             [29] Jianhui Li, Youcheng Niu, Shuang Li, Yuzhe Li, Jinming Xu and
-            Junfeng Wu. "Inducing Desired Equilibrium in Taxi Repositioning 
-            Problem with Adaptive Incentive Design", 2023 62nd IEEE Conference
+            Junfeng Wu. “Inducing Desired Equilibrium in Taxi Repositioning 
+            Problem with Adaptive Incentive Design”, 2023 62nd IEEE Conference
             on Decision and Control (CDC).
           </p>
           <p>
