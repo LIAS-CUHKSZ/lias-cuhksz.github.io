@@ -10,6 +10,12 @@ function Page(): JSX.Element {
       <div className="mx-auto mb-20 max-w-5xl items-start justify-center p-4 md:mt-20">
         <h2 className="mb-4 text-2xl font-semibold">News</h2>
         <div>
+          <p>● A paper was accepted by TAC(2024.06.12).</p>
+          <p>
+            Xinghan Li, Jianqi Chen, Han Zhang, Jieqiang Wei, Junfeng Wu, Errors
+            Dynamics in Affine Group Systems, IEEE Transactions on Automatic
+            Control, accepted
+          </p>
           <p>● A paper was accepted by Automatica(2024.03.26).</p>
           <p>
             Jianqi Chen, Junfeng Wu, Jie Chen, Small-Gain Criteria for

@@ -11,23 +11,28 @@ function Page(): JSX.Element {
         <h2 className="mb-4 text-2xl font-semibold">JOURNAL PAPERS</h2>
         <div>
           <p>
-            [48]Jianqi Chen, Junfeng Wu, Jie Chen, Small-Gain Criteria for
+            [49] Xinghan Li, Jianqi Chen, Han Zhang, Jieqiang Wei, Junfeng Wu,
+            Errors Dynamics in Affine Group Systems, IEEE Transactions on
+            Automatic Control, accepted.
+          </p>
+          <p>
+            [48] Jianqi Chen, Junfeng Wu, Jie Chen, Small-Gain Criteria for
             Mean-Square Stability of Random Delay Systems, Automatica, accepted.
           </p>
           <p>
-            [47]Jiang Wang, Yuanzheng He, Daobilige Su, Katsutoshi Itoyama,
+            [47] Jiang Wang, Yuanzheng He, Daobilige Su, Katsutoshi Itoyama,
             Kazuhiro Nakadai, Junfeng Wu, Shoudong Huang, You-Fu Li, He Kong,
             SLAM-based Joint Calibration of Multiple Asynchronous Microphone
             Arrays and Sound Source Localization, IEEE Transactions on Robotics,
             conditionally accepted.
           </p>
           <p>
-            [46]Lingying Huang, Junfeng Wu, Dawei Shi, Subhrakanti Dey, Ling
+            [46] Lingying Huang, Junfeng Wu, Dawei Shi, Subhrakanti Dey, Ling
             Shi. “Differential Privacy in Distributed Optimization with Gradient
             Tracking”, IEEE Transactions on Automatic Control(TAC), accepted.
           </p>
           <p>
-            [45]Guangyang Zeng, Biqiang Mu, Ling Shi, Jiming Chen and Junfeng
+            [45] Guangyang Zeng, Biqiang Mu, Ling Shi, Jiming Chen and Junfeng
             Wu. “Consistent and Asymptotically Efficient Localization from
             Range-Difference Measurements”, IEEE Transactions on Information
             Theory (TIT), accepted.
@@ -39,7 +44,7 @@ function Page(): JSX.Element {
             Industrial Informatics (TII), accepted.
           </p>
           <p>
-            [43]Guangyang Zeng, Biqiang Mu, Jiming Chen, Zhiguo Shi and Junfeng
+            [43] Guangyang Zeng, Biqiang Mu, Jiming Chen, Zhiguo Shi and Junfeng
             Wu. “Global and Asymptotically Efficient Localization from Range
             Measurements”, IEEE Transactions on Signal Processing, accepted.
           </p>
