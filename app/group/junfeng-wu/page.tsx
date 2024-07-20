@@ -144,7 +144,7 @@ function Page(): JSX.Element {
                 China
               </p>
               <p className="mt-2">
-                ● Professor (on tenure track) (Jul. 2017 – Sep.2021)
+                ● Professor (on tenure track) (Jul. 2017 - Sep.2021)
               </p>
               <p>
                 <a
@@ -157,6 +157,7 @@ function Page(): JSX.Element {
                 </a>
                 , Zhejiang University, Hangzhou, P. R. China
               </p>
+              <p className="mt-2">● Visiting Scholar (Apr. 2016 - Aug. 2016)</p>
               <p>
                 <a
                   href="https://cecc.anu.edu.au/"
@@ -168,6 +169,8 @@ function Page(): JSX.Element {
                 </a>
                 , The Australian National University, Australia
               </p>
+              <p>Host: Guodong Shi, Brian D. O. Anderson</p>
+              <p className="mt-2">● Researcher (Jan. 2016 - Jun. 2017)</p>
               <p>
                 <a
                   href="https://www.kth.se/is/dcs/division-of-decision-and-control-systems-1.788078%20https://www.kth.se/en"
@@ -187,7 +190,7 @@ function Page(): JSX.Element {
                 , Sweden
               </p>
               <p className="mt-2">
-                ● Postdoctoral Researcher (Jan. 2014 – Dec. 2015)
+                ● Postdoctoral Researcher (Jan. 2014 - Dec. 2015)
               </p>
               <p>
                 <a
