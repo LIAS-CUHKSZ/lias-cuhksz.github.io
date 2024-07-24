@@ -14,7 +14,7 @@ function Page(): JSX.Element {
           <p>
             Xinghan Li, Jianqi Chen, Han Zhang, Jieqiang Wei, Junfeng Wu, Errors
             Dynamics in Affine Group Systems, IEEE Transactions on Automatic
-            Control, accepted
+            Control, conditionally accepted
           </p>
           <p>● A paper was accepted by Automatica(2024.03.26).</p>
           <p>

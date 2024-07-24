@@ -13,7 +13,7 @@ function Page(): JSX.Element {
           <p>
             [49] Xinghan Li, Jianqi Chen, Han Zhang, Jieqiang Wei, Junfeng Wu,
             Errors Dynamics in Affine Group Systems, IEEE Transactions on
-            Automatic Control, accepted.
+            Automatic Control, conditionally accepted.
           </p>
           <p>
             [48] Jianqi Chen, Junfeng Wu, Jie Chen, Small-Gain Criteria for
