@@ -9,6 +9,47 @@ export const metadata: Metadata = {
 function Page(): JSX.Element {
   return (
     <div className="mx-auto mb-20 max-w-5xl items-start justify-center p-4 md:mt-20">
+      <h2 className="mb-4 text-2xl font-semibold">
+        Research Assistant Professor
+      </h2>
+      <div className="[&>*]:card grid grid-cols-1 items-stretch gap-3 sm:grid-cols-3">
+        <div>
+          <Image
+            src="/images/ziyang_hong.jpg"
+            alt="photo"
+            className="mx-auto pt-5"
+            width={200}
+            height={200}
+          />
+          <div className="p-5">
+            <h4 className="mb-2 text-lg">Ziyang Hong</h4>
+            <span className="font-normal text-gray-700 dark:text-gray-400">
+              Research Assistant Professor,2024/08 - Present
+              <br />
+              Ph.D., Heriot-Watt University, UK
+              <br />
+              MSc in Vision and Robotics, Heriot-Watt University, UK
+              <br />
+              BSc in Electronic and Information Engineering. Shantou University,
+              China
+              <br />
+              Research Field: Mobile Robotics, State Estimation, Simultaneous
+              Localization and Mapping, Autonomous Driving, Robot Learning,
+              Computer Vision, Radar-based Perception, Underwater Robotics
+              <br />
+              Personal website:{" "}
+              <a
+                target="_blank"
+                href="https://sites.google.com/view/ziyanghong/home"
+                rel="noreferrer"
+              >
+                https://sites.google.com/view/ziyanghong/home
+              </a>
+            </span>
+          </div>
+        </div>
+      </div>
+
       <h2 className="mb-4 text-2xl font-semibold">Postdoc</h2>
       <div className="[&>*]:card grid grid-cols-1 items-stretch gap-3 sm:grid-cols-3">
         <div>

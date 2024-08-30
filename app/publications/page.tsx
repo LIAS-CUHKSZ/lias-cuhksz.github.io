@@ -11,6 +11,17 @@ function Page(): JSX.Element {
         <h2 className="mb-4 text-2xl font-semibold">JOURNAL PAPERS</h2>
         <div>
           <p>
+            [51] Bokang Zhang, Yanglin Zhang, Zhikun Zhang, Jinglan Yang,
+            Lingying Huang, Junfeng Wu, S^2NeRF: Privacy-preserving Training
+            Framework for NeRF, ACM Conference on Computer and Communications
+            Security, accepted.
+          </p>
+          <p>
+            [50] Ke Fang, Jianqi Chen, Junfeng Wu, Clock Synchronization with
+            Unknown and Unmodeled Disturbances over Distributed Networks, IEEE
+            Transactions on Control of Network Systems, conditionally accept.
+          </p>
+          <p>
             [49] Xinghan Li, Jianqi Chen, Han Zhang, Jieqiang Wei, Junfeng Wu,
             Errors Dynamics in Affine Group Systems, IEEE Transactions on
             Automatic Control, conditionally accepted.

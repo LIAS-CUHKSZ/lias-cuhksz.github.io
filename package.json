@@ -20,9 +20,11 @@
     "flowbite": "^1.5.5",
     "flowbite-react": "^0.3.7",
     "next": "^14.0.0",
+    "npm": "^10.8.3",
     "react": "18",
     "react-dom": "18",
-    "react-icons": "^4.7.1"
+    "react-icons": "^4.7.1",
+    "yarn": "^1.22.22"
   },
   "devDependencies": {
     "@types/node": "^18.11.12",

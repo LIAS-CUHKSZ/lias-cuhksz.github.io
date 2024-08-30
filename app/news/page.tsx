@@ -10,6 +10,19 @@ function Page(): JSX.Element {
       <div className="mx-auto mb-20 max-w-5xl items-start justify-center p-4 md:mt-20">
         <h2 className="mb-4 text-2xl font-semibold">News</h2>
         <div>
+          <p>● A paper was accepted by CCS(2024.08.27)</p>
+          <p>
+            Bokang Zhang, Yanglin Zhang, Zhikun Zhang, Jinglan Yang, Lingying
+            Huang, Junfeng Wu, S^2NeRF: Privacy-preserving Training Framework
+            for NeRF, ACM Conference on Computer and Communications Security,
+            accepted.
+          </p>
+          <p>● A paper was accepted by TCNS(2024.08.24)</p>
+          <p>
+            Ke Fang, Jianqi Chen, Junfeng Wu, Clock Synchronization with Unknown
+            and Unmodeled Disturbances over Distributed Networks, IEEE
+            Transactions on Control of Network Systems, conditionally accept.
+          </p>
           <p>● A paper was accepted by TAC(2024.06.12).</p>
           <p>
             Xinghan Li, Jianqi Chen, Han Zhang, Jieqiang Wei, Junfeng Wu, Errors
