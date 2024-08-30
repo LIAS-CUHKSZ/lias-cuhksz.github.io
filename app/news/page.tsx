@@ -23,6 +23,20 @@ function Page(): JSX.Element {
             and Unmodeled Disturbances over Distributed Networks, IEEE
             Transactions on Control of Network Systems, conditionally accept.
           </p>
+          <p>● A paper was accepted by CDC(2024.07.24)</p>
+          <p>
+            Hongxu Zhao, Guangyang Zeng*, HaodongJANG, Xiaogiang Ren, Junfeng
+            Wu, Consistent Rigid Body Localizationfrom Range Measurements
+            withAnchor Position Uncertainty, IEEE Conference on Decision and
+            Control, accepted.
+          </p>
+          <p>● A paper was accepted by CDC(2024.07.24)</p>
+          <p>
+            Haoying Li, Xinghan Li, Shuaiting Huang, ChaoYang,Junfeng Wu,
+            Covariance Intersection-based Invariant Kalman Filtering (DInClKF)
+            for Distributed Pose Estimation, IEEE Conference on Decision and
+            Control, accepted.
+          </p>
           <p>● A paper was accepted by TAC(2024.06.12).</p>
           <p>
             Xinghan Li, Jianqi Chen, Han Zhang, Jieqiang Wei, Junfeng Wu, Errors

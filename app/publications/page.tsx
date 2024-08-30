@@ -11,15 +11,27 @@ function Page(): JSX.Element {
         <h2 className="mb-4 text-2xl font-semibold">JOURNAL PAPERS</h2>
         <div>
           <p>
-            [51] Bokang Zhang, Yanglin Zhang, Zhikun Zhang, Jinglan Yang,
+            [53] Bokang Zhang, Yanglin Zhang, Zhikun Zhang, Jinglan Yang,
             Lingying Huang, Junfeng Wu, S^2NeRF: Privacy-preserving Training
             Framework for NeRF, ACM Conference on Computer and Communications
             Security, accepted.
           </p>
           <p>
-            [50] Ke Fang, Jianqi Chen, Junfeng Wu, Clock Synchronization with
+            [52] Ke Fang, Jianqi Chen, Junfeng Wu, Clock Synchronization with
             Unknown and Unmodeled Disturbances over Distributed Networks, IEEE
             Transactions on Control of Network Systems, conditionally accept.
+          </p>
+          <p>
+            [51] Hongxu Zhao, Guangyang Zeng*, HaodongJANG, Xiaogiang Ren,
+            Junfeng Wu, Consistent Rigid Body Localizationfrom Range
+            Measurements withAnchor Position Uncertainty, IEEE Conference on
+            Decision and Control, accepted.
+          </p>
+          <p>
+            [50] Haoying Li, Xinghan Li, Shuaiting Huang, ChaoYang,Junfeng Wu,
+            Covariance Intersection-based Invariant Kalman Filtering (DInClKF)
+            for Distributed Pose Estimation, IEEE Conference on Decision and
+            Control, accepted.
           </p>
           <p>
             [49] Xinghan Li, Jianqi Chen, Han Zhang, Jieqiang Wei, Junfeng Wu,
