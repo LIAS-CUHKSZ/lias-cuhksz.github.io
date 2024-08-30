@@ -22,7 +22,7 @@ function Page(): JSX.Element {
             Transactions on Control of Network Systems, conditionally accept.
           </p>
           <p>
-            [51] Hongxu Zhao, Guangyang Zeng*, HaodongJANG, Xiaogiang Ren,
+            [51] Hongxu Zhao, Guangyang Zeng, HaodongJANG, Xiaogiang Ren,
             Junfeng Wu, Consistent Rigid Body Localizationfrom Range
             Measurements withAnchor Position Uncertainty, IEEE Conference on
             Decision and Control, accepted.

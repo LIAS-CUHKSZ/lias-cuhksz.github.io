@@ -25,7 +25,7 @@ function Page(): JSX.Element {
           </p>
           <p>● A paper was accepted by CDC(2024.07.24)</p>
           <p>
-            Hongxu Zhao, Guangyang Zeng*, HaodongJANG, Xiaogiang Ren, Junfeng
+            Hongxu Zhao, Guangyang Zeng, HaodongJANG, Xiaogiang Ren, Junfeng
             Wu, Consistent Rigid Body Localizationfrom Range Measurements
             withAnchor Position Uncertainty, IEEE Conference on Decision and
             Control, accepted.
