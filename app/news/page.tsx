@@ -21,7 +21,7 @@ function Page(): JSX.Element {
           <p>
             Ke Fang, Jianqi Chen, Junfeng Wu, Clock Synchronization with Unknown
             and Unmodeled Disturbances over Distributed Networks, IEEE
-            Transactions on Control of Network Systems, conditionally accept.
+            Transactions on Control of Network Systems, accepted.
           </p>
           <p>● A paper was accepted by CDC(2024.07.24)</p>
           <p>
