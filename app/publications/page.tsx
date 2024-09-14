@@ -13,7 +13,7 @@ function Page(): JSX.Element {
           <p>
             [50] Ke Fang, Jianqi Chen, Junfeng Wu, Clock Synchronization with
             Unknown and Unmodeled Disturbances over Distributed Networks, IEEE
-            Transactions on Control of Network Systems accept.
+            Transactions on Control of Network Systems accepted.
           </p>
           <p>
             [49] Xinghan Li, Jianqi Chen, Han Zhang, Jieqiang Wei, Junfeng Wu,

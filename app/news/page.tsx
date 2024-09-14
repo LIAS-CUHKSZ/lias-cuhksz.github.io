@@ -10,6 +10,30 @@ function Page(): JSX.Element {
       <div className="mx-auto mb-20 max-w-5xl items-start justify-center p-4 md:mt-20">
         <h2 className="mb-4 text-2xl font-semibold">News</h2>
         <div>
+          <p>
+            ● Junfeng WU will serve as an AE for{" "}
+            <a
+              href="https://2025.ieee-icra.org/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              IEEE ICRA 2025
+            </a>
+            .
+          </p>
+          <p>
+            ●{" "}
+            <a
+              href="https://eng.ox.ac.uk/people/xiaowen-dong/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Prof. Xiaowen Dong
+            </a>
+            , visited LIAS(2024.09.03). Junfeng hosted his talk in CUHKSZ School
+            of Data Science Topical Seminar on Bayesian Optimisation of
+            Graph-based Functions
+          </p>
           <p>● A paper was accepted by CCS(2024.08.27)</p>
           <p>
             Bokang Zhang, Yanglin Zhang, Zhikun Zhang, Jinglan Yang, Lingying
