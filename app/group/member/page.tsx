@@ -10,7 +10,7 @@ function Page(): JSX.Element {
   return (
     <div className="mx-auto mb-20 max-w-5xl items-start justify-center p-4 md:mt-20">
       <h2 className="mb-4 text-2xl font-semibold">
-        Research Assistant Professor
+        Research Assistant Professor and Postdoc
       </h2>
       <div className="[&>*]:card grid grid-cols-1 items-stretch gap-3 sm:grid-cols-3">
         <div>
@@ -30,7 +30,7 @@ function Page(): JSX.Element {
               <br />
               MSc in Vision and Robotics, Heriot-Watt University, UK
               <br />
-              BSc in Electronic and Information Engineering. Shantou University,
+              BSc in Electronic and Information Engineering, Shantou University,
               China
               <br />
               Research Field: Mobile Robotics, State Estimation, Simultaneous
@@ -48,10 +48,6 @@ function Page(): JSX.Element {
             </span>
           </div>
         </div>
-      </div>
-
-      <h2 className="mb-4 text-2xl font-semibold">Postdoc</h2>
-      <div className="[&>*]:card grid grid-cols-1 items-stretch gap-3 sm:grid-cols-3">
         <div>
           <Image
             src="/images/zengguangyang.jpg"
