@@ -13,6 +13,63 @@ function Page(): JSX.Element {
         <div className="grid grid-cols-1 items-stretch gap-5">
           <div className="card max-w-full p-5">
             <h2 className="mb-2 text-lg font-bold">
+              BESTAnP: Bi-Step Efficient and Statistically Optimal Estimator for
+              Acoustic-n-Point Problem
+            </h2>
+            <span>
+              We present BESTAnP, a novel algorithm for estimating 2D
+              forward-looking sonar pose using 3D-2D point correspondences. Our
+              two-step approach separates translation and rotation estimation,
+              achieving the first closed-form solution for full six-degree pose
+              in sonar localization. BESTAnP demonstrates 10x faster performance
+              than existing methods while maintaining comparable accuracy,
+              making it suitable for real-time applications on resource-limited
+              platforms. Successful integration with sonar-based odometry
+              validates its practical effectiveness in trajectory estimation.
+              <Image
+                src="/images/anp.png"
+                alt="photo"
+                className="my-2 w-full"
+                width={200}
+                height={200}
+              />
+              <b>Authors: </b> Wenliang Sheng, Hongxu Zhao, Lingpeng Chen,
+              Guangyang Zeng, Yunling Shao, Yuze Hong, Chao Yang, Ziyang Hong,
+              and Junfeng Wu
+              <br />
+              <b>Paper: </b>
+              <a
+                href="https://arxiv.org/abs/2411.17521"
+                target="_blank"
+                rel="noreferrer"
+              >
+                https://arxiv.org/abs/2411.17521
+              </a>
+              <br />
+              <b>Code, Dataset and More Details: </b>
+              <a
+                href="https://github.com/LIAS-CUHKSZ/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                https://github.com/LIAS-CUHKSZ/
+              </a>
+              <br />
+              <b>Citation:</b>
+              <div className="relative overflow-x-auto rounded-sm bg-gray-100 p-3 dark:bg-gray-700">
+                <pre>
+                  {`@article{sheng2024bestanpbistepefficientstatistically,
+title={BESTAnP: Bi-Step Efficient and Statistically Optimal Estimator for Acoustic-n-Point Problem}, 
+author={Wenliang Sheng and Hongxu Zhao and Lingpeng Chen and Guangyang Zeng and Yunling Shao and Yuze Hong and Chao Yang and Ziyang Hong and Junfeng Wu},
+journal={arXiv preprint arXiv:2411.17521},
+year={2024}
+}`}
+                </pre>
+              </div>
+            </span>
+          </div>
+          <div className="card max-w-full p-5">
+            <h2 className="mb-2 text-lg font-bold">
               Efficient Planar Pose Estimation via UWB Measurements
             </h2>
             <span>
