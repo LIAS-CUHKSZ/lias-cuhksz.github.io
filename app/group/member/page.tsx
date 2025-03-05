@@ -353,7 +353,7 @@ function Page(): JSX.Element {
             height={200}
           />
           <div className="p-5">
-            <h4 className="mb-2 text-lg">Xinhan LI (李星翰)</h4>
+            <h4 className="mb-2 text-lg">Xinghan LI (李星翰)</h4>
             <span className="font-normal text-gray-700 dark:text-gray-400">
               Current Position: Engineer at{" "}
               <a
