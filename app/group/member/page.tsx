@@ -201,64 +201,37 @@ function Page(): JSX.Element {
         </div>
         <div>
           <Image
-            src="/images/kefang2.jpg"
+            src="/images/zhaohongxu-2.jpg"
             alt="photo"
             className="mx-auto pt-5"
             width={200}
             height={200}
           />
           <div className="p-5">
-            <h4 className="mb-2 text-lg">Ke Fang (方科)</h4>
+            <h4 className="mb-2 text-lg">Hongxu ZHAO (赵洪旭)</h4>
             <span className="font-normal text-gray-700 dark:text-gray-400">
-              2019/09/21 – present
+              2023/3/10 - present
               <br />
-              M Phil. from Beihang University
+              MPhil. from University of California, Berkeley
               <br />
-              B.Eng. , Harbin Institute of Technology
-              <br />
-              Research Interests: Online control; Distributed control systems
+              B.S. from Case Western Reserve University
             </span>
           </div>
         </div>
         <div>
           <Image
-            src="/images/xinghanli.jpg"
+            src="/images/chenlingpeng.png"
             alt="photo"
             className="mx-auto pt-5"
             width={200}
             height={200}
           />
           <div className="p-5">
-            <h4 className="mb-2 text-lg">Xinhan LI (李星翰)</h4>
+            <h4 className="mb-2 text-lg">Lingpeng Chen</h4>
             <span className="font-normal text-gray-700 dark:text-gray-400">
-              2018/09/21 – present
+              2024/09 - present
               <br />
-              B.Eng. from Zhejiang University
-              <br />
-              Research Interests: SLAM；Filtering and Estimation on SE
-              <sub>n</sub>(3)
-            </span>
-          </div>
-        </div>
-        <div>
-          <Image
-            src="/images/shuaitinghuang2.jpg"
-            alt="photo"
-            className="mx-auto pt-5"
-            width={200}
-            height={200}
-          />
-          <div className="p-5">
-            <h4 className="mb-2 text-lg">Shuaiting HUANG (黄帅婷)</h4>
-            <span className="font-normal text-gray-700 dark:text-gray-400">
-              2018/09/21 - present
-              <br />
-              B.Eng. from Nanjing Agricultrual University
-              <br />
-              MSc from Nanjing Agricultrual University
-              <br />
-              Research Interests: Distributed state estimation; Cyber security
-              and privacy
+              B.Eng. from the Chinese University of Hong Kong, Shenzhen
             </span>
           </div>
         </div>
@@ -312,9 +285,113 @@ function Page(): JSX.Element {
               </a>
               )
               <br />
-              2022/06/01 – present (RA)
+              2022/06/01 - present (RA)
               <br />
               B.Eng. from the Chinese University of Hong Kong, Shenzhen
+            </span>
+          </div>
+        </div>
+        <div>
+          <Image
+            src="/images/shaoyunling.png"
+            alt="photo"
+            className="mx-auto pt-5"
+            width={200}
+            height={200}
+          />
+          <div className="p-5">
+            <h4 className="mb-2 text-lg">Yunling SHAO (邵云凌)</h4>
+            <span className="font-normal text-gray-700 dark:text-gray-400">
+              2024/09/01 - present
+              <br />
+              B.Eng. from Zhejiang University
+              <br />
+              Research Interests: Underwater Robot,SLAM,sensor fusion
+            </span>
+          </div>
+        </div>
+      </div>
+      <h2 className="mt-10 mb-4 text-2xl font-semibold">Previous Students</h2>
+      <div className="[&>*]:card grid grid-cols-1 items-stretch gap-3 sm:grid-cols-3">
+        <div>
+          <Image
+            src="/images/kefang2.jpg"
+            alt="photo"
+            className="mx-auto pt-5"
+            width={200}
+            height={200}
+          />
+          <div className="p-5">
+            <h4 className="mb-2 text-lg">Ke Fang (方科)</h4>
+            <span className="font-normal text-gray-700 dark:text-gray-400">
+              2019/09/21 - 2025/03
+              <br />
+              M Phil. from Beihang University
+              <br />
+              B.Eng. , Harbin Institute of Technology
+              <br />
+              Research Interests: Online control; Distributed control systems
+            </span>
+          </div>
+        </div>
+        <div>
+          <Image
+            src="/images/xinghanli.jpg"
+            alt="photo"
+            className="mx-auto pt-5"
+            width={200}
+            height={200}
+          />
+          <div className="p-5">
+            <h4 className="mb-2 text-lg">Xinhan LI (李星翰)</h4>
+            <span className="font-normal text-gray-700 dark:text-gray-400">
+              Current Position: Engineer at{" "}
+              <a
+                href="https://www.deepmirror.com/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                DeepMirror Technology Co., Ltd.
+              </a>
+              <br />
+              2018/09/21 - 2024/06
+              <br />
+              B.Eng. from Zhejiang University
+              <br />
+              Research Interests: SLAM；Filtering and Estimation on SE
+              <sub>n</sub>(3)
+            </span>
+          </div>
+        </div>
+        <div>
+          <Image
+            src="/images/shuaitinghuang2.jpg"
+            alt="photo"
+            className="mx-auto pt-5"
+            width={200}
+            height={200}
+          />
+          <div className="p-5">
+            <h4 className="mb-2 text-lg">Shuaiting HUANG (黄帅婷)</h4>
+            <span className="font-normal text-gray-700 dark:text-gray-400">
+              Current Position: Postdoctoral Researcher at{" "}
+              <a
+                href="https://www.kios.ucy.ac.cy/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                the KIOS Research and Innovation Center of Excellence at the
+                University of Cyprus,
+              </a>
+              <br />
+              2018/09/21 - 2024/06
+              <br />
+              B.Eng. from Nanjing Agricultrual University
+              <br />
+              MSc from Nanjing Agricultrual University
+              <br />
+              Research Interests: Distributed state estimation; Cyber security
+              and privacy
             </span>
           </div>
         </div>
@@ -324,92 +401,56 @@ function Page(): JSX.Element {
       <div className="[&>*]:card grid grid-cols-1 items-stretch gap-3 sm:grid-cols-3">
         <div>
           <Image
-            src="/images/wangwentao.jpg"
+            src="/images/pengyifan.png"
             alt="photo"
             className="mx-auto pt-5"
             width={200}
             height={200}
           />
           <div className="p-5">
-            <h4 className="mb-2 text-lg">Wentao WANG (王文涛)</h4>
+            <h4 className="mb-2 text-lg">Yifan PENG (彭一凡)</h4>
             <span className="font-normal text-gray-700 dark:text-gray-400">
-              2022/07/10 – present (Co-supervised with Prof.{" "}
-              <a
-                href="http://mypage.zju.edu.cn/cjyang"
-                target="_blank"
-                rel="noreferrer"
-              >
-                Chunjie Yang
-              </a>
-              )
+              2024/11/01 – present
               <br />
-              B.Eng. from Zhejiang University
+              Meng from Nanjing University of Science and Technology
               <br />
-              Postgraduate, Zhejiang University
+              B.Eng. from Nanjing University of Science and Technology
             </span>
           </div>
         </div>
         <div>
           <Image
-            src="/images/zhaohongxu-2.jpg"
+            src="/images/xujianheng.png"
             alt="photo"
             className="mx-auto pt-5"
             width={200}
             height={200}
           />
           <div className="p-5">
-            <h4 className="mb-2 text-lg">Hongxu ZHAO (赵洪旭)</h4>
+            <h4 className="mb-2 text-lg">Yifan PENG (彭一凡)</h4>
             <span className="font-normal text-gray-700 dark:text-gray-400">
-              2023/3/10 - present
+              2024/10/1 - present,
               <br />
-              MPhil. from University of California, Berkeley
-              <br />
-              B.S. from Case Western Reserve University
-            </span>
-          </div>
-        </div>
-        <div>
-          <Image
-            src="/images/gaojingxing.jpg"
-            alt="photo"
-            className="mx-auto pt-5"
-            width={200}
-            height={200}
-          />
-          <div className="p-5">
-            <h4 className="mb-2 text-lg">Jingxing GAO (高景星)</h4>
-            <span className="font-normal text-gray-700 dark:text-gray-400">
-              2023/9/15 - present
-              <br />
-              Master student, the Chinese University of Hong Kong, Shenzhen
-              <br />
-              B.Eng from Northeastern University.
-            </span>
-          </div>
-        </div>
-        <div>
-          <Image
-            src="/images/pengjingchao.jpg"
-            alt="photo"
-            className="mx-auto pt-5"
-            width={200}
-            height={200}
-          />
-          <div className="p-5">
-            <h4 className="mb-2 text-lg">Jingchao PENG (彭靖超)</h4>
-            <span className="font-normal text-gray-700 dark:text-gray-400">
-              2023/9/15 - present
-              <br />
-              Master, the Chinese University of Hong Kong, Shenzhen.
-              <br />
-              B.Eng from City University of Hong Kong.
+              B.Eng. from the Chinese Univeristy of Hong Kong, Shenzhen
             </span>
           </div>
         </div>
       </div>
 
-      <h2 className="mt-10 mb-4 text-2xl font-semibold">Undergraduate RAs</h2>
+      <h2 className="mt-10 mb-4 text-2xl font-semibold">Previous RAs</h2>
       <div>
+        <p>
+          12. Wentao WANG (王文涛), 2022/07/10 - present, Postgraduate, Zhejiang
+          University.
+        </p>
+        <p>
+          11. Jingchao PENG (彭靖超), 2023/9/15 - present, Master, the Chinese
+          University of Hong Kong, Shenzhen.
+        </p>
+        <p>
+          10. Jingxing GAO (高景星), 2023/9/15 - present, Master student, the
+          Chinese University of Hong Kong, Shenzhen
+        </p>
         <p>
           9. Yuze HONG (洪昱泽), 2023/12/1 - present, B.Eng. from Zhejiang
           University

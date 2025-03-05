@@ -13,7 +13,7 @@ function Page(): JSX.Element {
           <p>
             [50] Ke Fang, Jianqi Chen, Junfeng Wu, Clock Synchronization with
             Unknown and Unmodeled Disturbances over Distributed Networks, IEEE
-            Transactions on Control of Network Systems accepted.
+            Transactions on Control of Network Systems, accepted.
           </p>
           <p>
             [49] Xinghan Li, Jianqi Chen, Han Zhang, Jieqiang Wei, Junfeng Wu,
@@ -304,6 +304,12 @@ function Page(): JSX.Element {
           SELECTED PEER-REVIEWED CONFERENCE PAPERS
         </h2>
         <div>
+          <p>
+            [33] Haoying LI, Qingcheng Zeng, Haoran Li, Yanglin Zhang, Junfeng
+            Wu, Distributed Invariant Kalman Filter for Object-level Multi-robot
+            Pose SLAM, 2025 IEEE International Conference on Robotics and
+            Automation (ICRA), accepted.
+          </p>
           <p>
             [32] Bokang Zhang, Yanglin Zhang, Zhikun Zhang, Jinglan Yang,
             Lingying Huang, Junfeng Wu, S^2NeRF: Privacy-preserving Training

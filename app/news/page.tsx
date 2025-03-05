@@ -11,6 +11,43 @@ function Page(): JSX.Element {
         <h2 className="mb-4 text-2xl font-semibold">News</h2>
         <div>
           <p>
+            ● Junfeng Wu, Ziyang Hong hosted the SDS Topical Seminar Series on
+            Marine Science and Marine Robotics, with talks delivered by Dr. Ivan
+            Masmitja (Instituto de Ciencias del Mar ,Spain), Apple Chui (CUHK),
+            Giacomo Picardi (Instituto de Ciencias del Mar, Spain), Guangyang
+            Zeng(CUHKSZ), Lingying Huang(Southeast University, China),
+            2025.02.19.
+          </p>
+          <p>
+            ● Dr. Ivan Masmitja from Instituto de Ciencias del Ma, Spain,
+            visited our lab (2025.02.17-20)
+          </p>
+          <p>● Jinglan Yang received a master offer from CMU (2025.02.11)</p>
+          <p>
+            ● Junfeng Wu visited Peking University hosted by Prof. Wei
+            Chen(2025.02.06-09).
+          </p>
+          <p>
+            ● Haoying LI, Qingcheng Zeng, Haoran Li, Yanglin Zhang, Junfeng Wu,
+            Distributed Invariant Kalman Filter for Object-level Multi-robot
+            Pose SLAM, 2025 IEEE International Conference on Robotics and
+            Automation (ICRA).
+          </p>
+          <p>● A paper was accepted by 2025 IEEE ICRA.(2025.01.28)</p>
+          <p>
+            ● Ziyang Hong, Junfeng Wu visited Dr. CHUI Pui Yi Apple at School of
+            Life Sciences, CUHK(2025.01.23).
+          </p>
+          <p>
+            ● Haodong Jiang, and Junfeng Wu visited The Centre for Underwater
+            Robotics (CIRS) ,University of Girona, Spain(2024.12.19-21).
+          </p>
+          <p>
+            ● Haoding Jiang, Haoying Li, Hongxu Zhao, Junfeng Wu attended CDC
+            @Milano (2024.12.16-19).
+          </p>
+
+          <p>
             ● Junfeng WU will serve as an AE for{" "}
             <a
               href="https://2025.ieee-icra.org/"
@@ -49,10 +86,10 @@ function Page(): JSX.Element {
           </p>
           <p>● A paper was accepted by CDC(2024.07.24)</p>
           <p>
-            Hongxu Zhao, Guangyang Zeng, HaodongJANG, Xiaogiang Ren, Junfeng Wu,
-            Consistent Rigid Body Localizationfrom Range Measurements withAnchor
-            Position Uncertainty, IEEE Conference on Decision and Control,
-            accepted.
+            Hongxu Zhao, Guangyang Zeng, Haodong Jiang, Xiaogiang Ren, Junfeng
+            Wu, Consistent Rigid Body Localizationfrom Range Measurements with
+            Anchor Position Uncertainty, IEEE Conference on Decision and
+            Control, accepted.
           </p>
           <p>● A paper was accepted by CDC(2024.07.24)</p>
           <p>

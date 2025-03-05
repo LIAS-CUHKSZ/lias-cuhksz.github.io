@@ -548,7 +548,7 @@ function Page(): JSX.Element {
                 Longgang District, Shenzhen, Guangdong Province, P. R. China
               </p>
               <p>Email: junfengwu@cuhk.edu.cn</p>
-              <p>Tel: (+86) 755-2351-705</p>
+              <p>Tel: (+86) 755-2351-7059</p>
             </div>
           </div>
         </div>
