@@ -310,6 +310,16 @@ function Page(): JSX.Element {
             </span>
           </div>
         </div>
+        <div>
+          <div className="p-5">
+            <h4 className="mb-2 text-lg">Yuze HONG (洪昱泽)</h4>
+            <span className="font-normal text-gray-700 dark:text-gray-400">
+              2024/09/01 - present
+              <br />
+              B.Eng. from Zhejiang University
+            </span>
+          </div>
+        </div>
       </div>
       <h2 className="mt-10 mb-4 text-2xl font-semibold">Previous Students</h2>
       <div className="[&>*]:card grid grid-cols-1 items-stretch gap-3 sm:grid-cols-3">
@@ -427,7 +437,7 @@ function Page(): JSX.Element {
             height={200}
           />
           <div className="p-5">
-            <h4 className="mb-2 text-lg">Yifan PENG (彭一凡)</h4>
+            <h4 className="mb-2 text-lg">Jianheng Xu (徐鉴恒)</h4>
             <span className="font-normal text-gray-700 dark:text-gray-400">
               2024/10/1 - present,
               <br />
@@ -440,20 +450,16 @@ function Page(): JSX.Element {
       <h2 className="mt-10 mb-4 text-2xl font-semibold">Previous RAs</h2>
       <div>
         <p>
-          12. Wentao WANG (王文涛), 2022/07/10 - present, Postgraduate, Zhejiang
+          11. Wentao WANG (王文涛), 2022/07/10 - present, Postgraduate, Zhejiang
           University.
         </p>
         <p>
-          11. Jingchao PENG (彭靖超), 2023/9/15 - present, Master, the Chinese
+          10. Jingchao PENG (彭靖超), 2023/9/15 - present, Master, the Chinese
           University of Hong Kong, Shenzhen.
         </p>
         <p>
-          10. Jingxing GAO (高景星), 2023/9/15 - present, Master student, the
+          9. Jingxing GAO (高景星), 2023/9/15 - present, Master student, the
           Chinese University of Hong Kong, Shenzhen
-        </p>
-        <p>
-          9. Yuze HONG (洪昱泽), 2023/12/1 - present, B.Eng. from Zhejiang
-          University
         </p>
         <p>
           8. Yuzhe WANG (王俣哲), 2023/9/1 - present, the Chinese University of
