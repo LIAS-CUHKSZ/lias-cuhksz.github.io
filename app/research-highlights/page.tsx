@@ -23,18 +23,18 @@ function Page(): JSX.Element {
               tracked by a motion capture system, enabling researchers to
               validate the localization accuracy and performance of their
               algorithms in underwater scenes. The dataset is categorized into
-              "easy" and "hard" classes, where sequences in the easy class were
-              collected under good water quality and lighting conditions, while
-              sequences in the hard class include special underwater conditions
-              such as low light, high dynamic range (HDR), and turbidity.
-              Furthermore, based on this dataset, we evaluated mainstream
-              frame-based visual SLAM algorithms and a state-of-the-art
-              event-based SLAM algorithm in underwater scenarios. The analysis
-              of advantages and limitations of event camera points to potential
-              future directions for underwater SLAM research. We hope this
-              dataset can enable researchers to validate the localization
-              accuracy and performance of their algorithms in underwater
-              environments.
+              &quot;easy&quot; and &quot;hard&quot; classes, where sequences in
+              the easy class were collected under good water quality and
+              lighting conditions, while sequences in the hard class include
+              special underwater conditions such as low light, high dynamic
+              range (HDR), and turbidity. Furthermore, based on this dataset, we
+              evaluated mainstream frame-based visual SLAM algorithms and a
+              state-of-the-art event-based SLAM algorithm in underwater
+              scenarios. The analysis of advantages and limitations of event
+              camera points to potential future directions for underwater SLAM
+              research. We hope this dataset can enable researchers to validate
+              the localization accuracy and performance of their algorithms in
+              underwater environments.
               <div className="grid grid-cols-1 gap-10 md:grid-cols-2">
                 <Image
                   src="/images/uw_dataset_overview.png"
