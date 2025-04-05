@@ -11,6 +11,13 @@ function Page(): JSX.Element {
         <h2 className="mb-4 text-2xl font-semibold">JOURNAL PAPERS</h2>
         <div>
           <p>
+            [51] Wenliang Sheng, Hongxu Zhao, Lingpeng Chen, Guangyang Zeng,
+            Yunling Shao, Yuze Hong, Chao Yang, Ziyang Hong, Junfeng Wu,
+            BESTAnP: Bi-Step Efficient and Statistically Optimal Estimator for
+            Acoustic-n-Point Problem, IEEE Robotics and Automation Letters,
+            accepted.
+          </p>
+          <p>
             [50] Ke Fang, Jianqi Chen, Junfeng Wu, Clock Synchronization with
             Unknown and Unmodeled Disturbances over Distributed Networks, IEEE
             Transactions on Control of Network Systems, accepted.
