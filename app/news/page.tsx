@@ -16,6 +16,13 @@ const newsItems: React.ReactNode[] = [
     IEEE Robotics and Automation Letters, accepted.
   </>,
   <>
+    A paper was accepted by 2025 IEEE RAL(2025.03.31).
+    <br /> Wenliang Sheng, Hongxu Zhao, Lingpeng Chen, Guangyang Zeng, Yunling
+    Shao, Yuze Hong, Chao Yang, Ziyang Hong, Junfeng Wu, BESTAnP: Bi-Step
+    Efficient and Statistically Optimal Estimator for Acoustic-n-Point Problem,
+    IEEE Robotics and Automation Letters, accepted.
+  </>,
+  <>
     Junfeng Wu, Ziyang Hong hosted the SDS Topical Seminar Series on Marine
     Science and Marine Robotics, with talks delivered by Dr. Ivan Masmitja
     (Instituto de Ciencias del Mar ,Spain), Apple Chui (CUHK), Giacomo Picardi
