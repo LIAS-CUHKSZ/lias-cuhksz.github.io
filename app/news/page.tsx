@@ -12,8 +12,9 @@ const newsItems: React.ReactNode[] = [
     A paper was accepted by 2025 IEEE TIFS(2025.07.17).
     <br />
     Jianhui Li, Bokang Zhang, Youcheng Niu, Shuang Wu, Kemi Ding, Junfeng Wu,
-    Online Reward Poisoning in Reinforcement Learning with Convergence Guarantee,
-    IEEE Transactions on Information Forensics and Security, accepted.
+    Online Reward Poisoning in Reinforcement Learning with Convergence
+    Guarantee, IEEE Transactions on Information Forensics and Security,
+    accepted.
   </>,
   <>
     A paper was conditionally accepted by 2025 IEEE TCNS(2025.07.05).
