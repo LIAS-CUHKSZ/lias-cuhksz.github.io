@@ -9,8 +9,12 @@ export const metadata: Metadata = {
 // Using JSX elements directly is easiest if you have links/formatting inside
 const newsItems: React.ReactNode[] = [
   <>
+    
+  </>,
+  <>
     A paper was accepted by 2025 IEEE RAL(2025.03.31).
-    <br /> Wenliang Sheng, Hongxu Zhao, Lingpeng Chen, Guangyang Zeng, Yunling Shao, Yuze Hong, Chao Yang, Ziyang Hong, Junfeng Wu, BESTAnP: Bi-Step
+    <br /> Wenliang Sheng, Hongxu Zhao, Lingpeng Chen, Guangyang Zeng, Yunling
+    Shao, Yuze Hong, Chao Yang, Ziyang Hong, Junfeng Wu, BESTAnP: Bi-Step
     Efficient and Statistically Optimal Estimator for Acoustic-n-Point Problem,
     IEEE Robotics and Automation Letters, accepted.
   </>,
