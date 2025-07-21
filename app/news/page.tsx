@@ -11,17 +11,16 @@ const newsItems: React.ReactNode[] = [
   <>
     A paper was accepted by 2025 IEEE CDC(2025.07.17).
     <br />
-    Jianhui Li, Shi Pu, Jianqi Chen, Junfeng Wu, Linear Convergence Analysis
-    of A Single-loop Algorithm for Bilevel Optimization via Small-gain
-    Theorem, 2025 64th IEEE Conference on Decision and Control (CDC),
-    accepted.
+    Jianhui Li, Shi Pu, Jianqi Chen, Junfeng Wu, Linear Convergence Analysis of
+    A Single-loop Algorithm for Bilevel Optimization via Small-gain Theorem,
+    2025 64th IEEE Conference on Decision and Control (CDC), accepted.
   </>,
   <>
     A paper was accepted by 2025 IEEE CDC(2025.07.17).
     <br />
     Junfeng Wu, Wei Chen, Li Qiu, Understanding Stabilizability of Feedback
-    Control from First-Order System with One-step Random Delay, 2025 64th
-    IEEE Conference on Decision and Control (CDC), accepted.
+    Control from First-Order System with One-step Random Delay, 2025 64th IEEE
+    Conference on Decision and Control (CDC), accepted.
   </>,
   <>
     A paper was accepted by 2025 IEEE TIFS(2025.07.17).
