@@ -10,9 +10,9 @@ export const metadata: Metadata = {
 const newsItems: React.ReactNode[] = [
   <>
     A paper was conditionally accepted by 2025 IEEE TCNS(2025.07.05).
-    <br /> Shuaiting Huang, Hongxu Zhao, Lingpeng Chen, Guangyang Zeng, Yunling
-    Shao, Yuze Hong, Chao Yang, Ziyang Hong, Junfeng Wu, BESTAnP: Bi-Step
-    Efficient and Statistically Optimal Estimator for Acoustic-n-Point Problem,
+    <br /> Shuaiting Huang, Haodong Jiang, Chengcheng Zhao, Peng Cheng, Junfeng
+    Wu, Fully Distributed State Estimation for Multi-agent Systems and its Application in
+    Cooperative Localization, IEEE Transactions on Control of Network Systems, conditionally accepted.
     IEEE Robotics and Automation Letters, accepted.
   </>,
   <>
