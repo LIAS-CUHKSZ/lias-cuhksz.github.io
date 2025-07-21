@@ -9,6 +9,18 @@ export const metadata: Metadata = {
 // Using JSX elements directly is easiest if you have links/formatting inside
 const newsItems: React.ReactNode[] = [
   <>
+    A paper was accepted by 2025 IEEE CDC(2025.07.17).
+    <br /> Junfeng Wu, Wei Chen, Li Qiu, Understanding Stabilizability of Feedback 
+    Control from First-Order System with One-step Random Delay, 2025 64th IEEE 
+    Conference on Decision and Control (CDC), accepted
+  </>,
+  <>
+    A paper was accepted by 2025 IEEE TIFS(2025.07.17).
+    <br /> Jianhui Li, Bokang Zhang, Youcheng Niu, Shuang Wu, Kemi Ding, Junfeng Wu, 
+    Online Reward Poisoning in Reinforcement Learning with Convergence Guarantee, 
+    IEEE Transactions on Information Forensics and Security, accepted.
+  </>,
+  <>
     A paper was conditionally accepted by 2025 IEEE TCNS(2025.07.05).
     <br /> Shuaiting Huang, Haodong Jiang, Chengcheng Zhao, Peng Cheng, Junfeng Wu, 
     Fully Distributed State Estimation for Multi-agent Systems and its Application 
