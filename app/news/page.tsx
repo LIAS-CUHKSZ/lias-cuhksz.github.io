@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 const newsItems: React.ReactNode[] = [
   <>
     A paper was conditionally accepted by 2025 IEEE TCNS(2025.07.05).
-    <br /> 
+    <br />
     Shuaiting Huang, Haodong Jiang, Chengcheng Zhao, Peng Cheng, Junfeng Wu, 
     Fully Distributed State Estimation for Multi-agent Systems and its Application 
     in Cooperative Localization, IEEE Transactions on Control of Network Systems, 
