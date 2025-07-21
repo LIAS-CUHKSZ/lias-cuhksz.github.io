@@ -11,6 +11,21 @@ function Page(): JSX.Element {
         <h2 className="mb-4 text-2xl font-semibold">JOURNAL PAPERS</h2>
         <div>
           <p>
+            [55] Jianhui Li, Shi Pu, Jianqi Chen, Junfeng Wu, Linear Convergence Analysis of
+            A Single-loop Algorithm for Bilevel Optimization via Small-gain Theorem,
+            2025 64th IEEE Conference on Decision and Control (CDC), accepted.
+          </p>
+          <p>
+            [54] Junfeng Wu, Wei Chen, Li Qiu, Understanding Stabilizability of Feedback
+            Control from First-Order System with One-step Random Delay, 2025 64th IEEE
+            Conference on Decision and Control (CDC), accepted.
+          </p>
+          <p>
+            [53] Jianhui Li, Bokang Zhang, Youcheng Niu, Shuang Wu, Kemi Ding, Junfeng Wu,
+            Online Reward Poisoning in Reinforcement Learning with Convergence Guarantee,
+            IEEE Transactions on Information Forensics and Security, accepted.
+          </p>
+          <p>
             [52] Shuaiting Huang, Haodong Jiang, Chengcheng Zhao, Peng Cheng,
             Junfeng Wu, Fully Distributed State Estimation for Multi-agent
             Systems and its Application in Cooperative Localization, IEEE
