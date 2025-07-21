@@ -62,6 +62,27 @@ function Page(): JSX.Element {
               >
                 https://sites.google.com/view/aquaticvision-lias
               </a>
+              <br />
+              <b>Paper: </b>
+              <a
+                href="https://arxiv.org/abs/2505.03448"
+                target="_blank"
+                rel="noreferrer"
+              >
+                https://arxiv.org/abs/2505.03448
+              </a>
+              <br />
+              <b>Citation:</b>
+              <div className="relative overflow-x-auto rounded-sm bg-gray-100 p-3 dark:bg-gray-700">
+                <pre>
+                  {`@article{peng2025aquaticvision,
+title={AquaticVision: Benchmarking Visual SLAM in Underwater Environment with Events and Frames},
+author={Peng, Yifan and Hong, Yuze and Hong, Ziyang and Chui, Apple Pui-Yi and Wu, Junfeng},
+journal={arXiv preprint arXiv:2505.03448},
+year={2025}
+}`}
+                </pre>
+              </div>
             </span>
           </div>
           <div className="card max-w-full p-5">
