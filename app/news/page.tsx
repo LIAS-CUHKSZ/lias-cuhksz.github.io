@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 const newsItems: React.ReactNode[] = [
   <>
     A paper was conditionally accepted by 2025 IEEE TCNS(2025.07.05).
-    <br /> Wenliang Sheng, Hongxu Zhao, Lingpeng Chen, Guangyang Zeng, Yunling
+    <br /> Shuaiting Huang, Hongxu Zhao, Lingpeng Chen, Guangyang Zeng, Yunling
     Shao, Yuze Hong, Chao Yang, Ziyang Hong, Junfeng Wu, BESTAnP: Bi-Step
     Efficient and Statistically Optimal Estimator for Acoustic-n-Point Problem,
     IEEE Robotics and Automation Letters, accepted.
