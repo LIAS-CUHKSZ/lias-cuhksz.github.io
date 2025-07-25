@@ -324,6 +324,12 @@ function Page(): JSX.Element {
         </h2>
         <div>
           <p>
+            [36] Haodong Jiang, Xiang Zheng, Yanglin Zhang, Qingcheng Zeng,
+            Yiqian Li, Ziyang Hong, Junfeng Wu, SCORE: Saturated Consensus
+            Relocalization in Semantic Line Maps, 2025 IEEE/RSJ International
+            Conference on Intelligent Robots and Systems (IROS), accepted.
+          </p>
+          <p>
             [35] Jianhui Li, Shi Pu, Jianqi Chen, Junfeng Wu, Linear Convergence
             Analysis of A Single-loop Algorithm for Bilevel Optimization via
             Small-gain Theorem, 2025 64th IEEE Conference on Decision and
