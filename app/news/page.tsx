@@ -9,9 +9,9 @@ export const metadata: Metadata = {
 // Using JSX elements directly is easiest if you have links/formatting inside
 const newsItems: React.ReactNode[] = [
   <>
-    Dr.Yulong Gao and Dr. Pian Yu visited LIAS(2025.08.06). Dr. Junfeng Wu hosted
-    their talks in CUHKSZ School of Data Science Topical Seminar on Safe and Efficient
-    Control with Provable Guarantees.
+    Dr.Yulong Gao and Dr. Pian Yu visited LIAS(2025.08.06). Dr. Junfeng Wu
+    hosted their talks in CUHKSZ School of Data Science Topical Seminar on Safe
+    and Efficient Control with Provable Guarantees.
   </>,
   <>
     A paper was accepted by 2025 IEEE CDC(2025.07.17).
