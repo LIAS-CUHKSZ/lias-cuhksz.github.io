@@ -15,7 +15,7 @@ const newsItems: React.ReactNode[] = [
       rel="noreferrer"
     >
       Dr. Yulong Gao
-    </a>说
+    </a>
     {" "}
     and
     <a
@@ -24,8 +24,8 @@ const newsItems: React.ReactNode[] = [
       rel="noreferrer"
     >
       {" "}Dr. Pian Yu
-    </a>
-    {" "}visited LIAS (2025.08.06). Dr. Junfeng Wu hosted their talks in CUHKSZ School
+    </a>{" "}
+    visited LIAS (2025.08.06). Dr. Junfeng Wu hosted their talks in CUHKSZ School
     of Data Science Topical Seminar on Safe and Efficient Control with Provable
     Guarantees.
   </>,
