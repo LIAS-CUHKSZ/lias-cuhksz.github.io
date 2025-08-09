@@ -25,8 +25,8 @@ const newsItems: React.ReactNode[] = [
       Dr. Pian Yu
     </a>
     visited LIAS(2025.08.06). Dr. Junfeng Wu hosted their talks in CUHKSZ School
-    of Data Science Topical Seminar on Safe and Efficient Control with
-    Provable Guarantees.
+    of Data Science Topical Seminar on Safe and Efficient Control with Provable
+    Guarantees.
   </>,
   <>
     A paper was accepted by 2025 IEEE CDC(2025.07.17).
