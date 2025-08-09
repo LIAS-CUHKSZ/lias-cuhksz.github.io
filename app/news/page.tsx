@@ -15,16 +15,17 @@ const newsItems: React.ReactNode[] = [
       rel="noreferrer"
     >
       Dr. Yulong Gao
-    </a>
-    {" "}and{" "}
+    </a>说
+    {" "}
+    and
     <a
       href="https://profiles.ucl.ac.uk/100722-pian-yu"
       target="_blank"
       rel="noreferrer"
     >
-      Dr. Pian Yu
+      {" "}Dr. Pian Yu
     </a>
-    visited LIAS (2025.08.06). Dr. Junfeng Wu hosted their talks in CUHKSZ School
+    {" "}visited LIAS (2025.08.06). Dr. Junfeng Wu hosted their talks in CUHKSZ School
     of Data Science Topical Seminar on Safe and Efficient Control with Provable
     Guarantees.
   </>,
