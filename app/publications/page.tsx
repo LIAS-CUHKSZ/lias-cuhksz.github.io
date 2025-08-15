@@ -11,6 +11,12 @@ function Page(): JSX.Element {
         <h2 className="mb-4 text-2xl font-semibold">JOURNAL PAPERS</h2>
         <div>
           <p>
+            [54] Guangyang Zeng, Qingcheng Zeng, Xinghan Li, Biqiang Mu, Jiming
+            Chen, Ling Shi, Junfeng Wu, Consistent and Optimal Solution to Camera
+            Motion Estimation, IEEE Transactions on Pattern Analysis and Machine
+            Intelligence, accepted.
+          </p>
+          <p>
             [53] Jianhui Li, Bokang Zhang, Youcheng Niu, Shuang Wu, Kemi Ding,
             Junfeng Wu, Online Reward Poisoning in Reinforcement Learning with
             Convergence Guarantee, IEEE Transactions on Information Forensics
