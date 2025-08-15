@@ -9,6 +9,14 @@ export const metadata: Metadata = {
 // Using JSX elements directly is easiest if you have links/formatting inside
 const newsItems: React.ReactNode[] = [
   <>
+    A paper was accepted by TPAMI!(2025.08.14).
+    <br />
+    Guangyang Zeng, Qingcheng Zeng, Xinghan Li, Biqiang Mu, Jiming Chen,
+    Ling Shi, Junfeng Wu, Consistent and Optimal Solution to Camera Motion
+    Estimation, IEEE Transactions on Pattern Analysis and Machine Intelligence,
+    accepted.
+  </>,
+  <>
     <a
       href="https://sites.google.com/view/yulongg/home"
       target="_blank"
