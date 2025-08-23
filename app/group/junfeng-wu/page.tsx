@@ -544,7 +544,7 @@ function Page(): JSX.Element {
             <h2 className="mt-4 mb-2 text-lg font-semibold">Contact</h2>
             <div className="ml-4">
               <p>
-                Office: 402 Daoyuan Building, CUHK-SZ, 2001 Longxiang Boulevard,
+                Office: 422 Zhixin Building, CUHK-SZ, 2001 Longxiang Boulevard,
                 Longgang District, Shenzhen, Guangdong Province, P. R. China
               </p>
               <p>Email: junfengwu@cuhk.edu.cn</p>
