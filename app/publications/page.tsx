@@ -11,6 +11,12 @@ function Page(): JSX.Element {
         <h2 className="mb-4 text-2xl font-semibold">JOURNAL PAPERS</h2>
         <div>
           <p>
+            [55] Guangyang Zeng, Yuan Shen, Ziyang Hong, Yuze Hong, Viorela Ila,
+            Guodong Shi, Junfeng Wu, Bias-Eliminated PnP for Stereo Visual
+            Odometry: Provably Consistent and Large-Scale Localization, IEEE
+            Robotics and Automation Letters, accepted.
+          </p>
+          <p>
             [54] Guangyang Zeng, Qingcheng Zeng, Xinghan Li, Biqiang Mu, Jiming
             Chen, Ling Shi, Junfeng Wu, Consistent and Optimal Solution to
             Camera Motion Estimation, IEEE Transactions on Pattern Analysis and
