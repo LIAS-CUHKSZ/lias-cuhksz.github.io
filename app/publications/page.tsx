@@ -336,6 +336,12 @@ function Page(): JSX.Element {
         </h2>
         <div>
           <p>
+            [37] Bokang Zhang, Chaojun Lu, Jianhui Li, Junfeng Wu, Exposing
+            Vulnerabilities in RL: A Novel Stealthy Backdoor Attack through
+            Reward Poisoning, Conference on Robot Learning, safe-ROL workshop,
+            accepted.
+          </p>
+          <p>
             [36] Haodong Jiang, Xiang Zheng, Yanglin Zhang, Qingcheng Zeng,
             Yiqian Li, Ziyang Hong, Junfeng Wu, SCORE: Saturated Consensus
             Relocalization in Semantic Line Maps, 2025 IEEE/RSJ International
