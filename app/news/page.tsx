@@ -19,8 +19,9 @@ const newsItems: React.ReactNode[] = [
     A paper was accepted by RAL!(2025.09.09).
     <br />
     Guangyang Zeng, Yuan Shen, Ziyang Hong, Yuze Hong, Viorela Ila, Guodong Shi,
-    Junfeng Wu, Bias-Eliminated PnP for Stereo Visual Odometry: Provably Consistent
-    and Large-Scale Localization, IEEE Robotics and Automation Letters, accepted.
+    Junfeng Wu, Bias-Eliminated PnP for Stereo Visual Odometry: Provably
+    Consistent and Large-Scale Localization, IEEE Robotics and Automation
+    Letters, accepted.
   </>,
   <>
     A paper was accepted by TPAMI!(2025.08.14).
