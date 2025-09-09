@@ -9,6 +9,20 @@ export const metadata: Metadata = {
 // Using JSX elements directly is easiest if you have links/formatting inside
 const newsItems: React.ReactNode[] = [
   <>
+    A paper was accepted by CoRL safe-ROL workshop!(2025.09.09).
+    <br />
+    Bokang Zhang, Chaojun Lu, Jianhui Li, Junfeng Wu, Exposing Vulnerabilities
+    in RL: A Novel Stealthy Backdoor Attack through Reward Poisoning, Conference
+    on Robot Learning, safe-ROL workshop, accepted.
+  </>,
+  <>
+    A paper was accepted by RAL!(2025.09.09).
+    <br />
+    Guangyang Zeng, Yuan Shen, Ziyang Hong, Yuze Hong, Viorela Ila, Guodong Shi,
+    Junfeng Wu, Bias-Eliminated PnP for Stereo Visual Odometry: Provably Consistent
+    and Large-Scale Localization, IEEE Robotics and Automation Letters, accepted.
+  </>,
+  <>
     A paper was accepted by TPAMI!(2025.08.14).
     <br />
     Guangyang Zeng, Qingcheng Zeng, Xinghan Li, Biqiang Mu, Jiming Chen, Ling
