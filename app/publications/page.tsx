@@ -49,7 +49,7 @@ function Page(): JSX.Element {
           <p>
             [49] Xinghan Li, Jianqi Chen, Han Zhang, Jieqiang Wei, Junfeng Wu,
             Errors Dynamics in Affine Group Systems, IEEE Transactions on
-            Automatic Control, conditionally accepted.
+            Automatic Control, accepted.
           </p>
           <p>
             [48] Jianqi Chen, Junfeng Wu, Jie Chen, Small-Gain Criteria for
@@ -60,7 +60,7 @@ function Page(): JSX.Element {
             Kazuhiro Nakadai, Junfeng Wu, Shoudong Huang, You-Fu Li, He Kong,
             SLAM-based Joint Calibration of Multiple Asynchronous Microphone
             Arrays and Sound Source Localization, IEEE Transactions on Robotics,
-            conditionally accepted.
+            accepted.
           </p>
           <p>
             [46] Lingying Huang, Junfeng Wu, Dawei Shi, Subhrakanti Dey, Ling
