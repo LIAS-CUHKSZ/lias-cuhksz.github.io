@@ -6,7 +6,7 @@ hide_footer: false
 hero_height: is-small
 ---
 
-<h1 style="font-size:35px;">Faculty</h1>
+<h1 style="font-size:35px;">Lab PI</h1>
 <br>
 <div class="columns is-multiline">
   {% assign sorted_faculty = site.team | where:"category","lab_head" %}
