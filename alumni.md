@@ -60,12 +60,12 @@ hide_footer: false
 {% endfor %}
 </div>
 
-<!--
+
 <hr>
-<h1 style="font-size:35px;">Former Postdoctoral Fellows and Scientists</h1>
+<h1 style="font-size:35px;">Former Research Assistant and Visitors</h1>
 <br>
 <div class="columns is-multiline">
-{% assign sorted_person = site.team | where:"category","pastpostdoc" | sort: "graduation_year" | reverse %}
+{% assign sorted_person = site.team | where:"category","pastra" | sort: "graduation_year" | reverse %}
 {% for person in sorted_person %}
 <div class="column is-one-fifth-desktop is-6-tablet">
   <a href="{{ person.url | prepend: site.baseurl }}">
@@ -86,4 +86,4 @@ hide_footer: false
   </a>
 </div>
 {% endfor %}
-</div> -->
+</div> 
