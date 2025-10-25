@@ -6,6 +6,13 @@ show_sidebar: false
 hide_footer: false
 ---
 
+# 2025.10
+
+<figure>
+ <img src="/img/gallery/202510.jpg" style="width: 50%; height: auto;"/>
+ <figcaption>2025 IROS gathering. From left to right: Ziyang, yuchi's wife, Haoying, Qingcheng, Hongxu, Shenyuan, Tengfei, Junfeng, Guangyang, Yuchi. @Zhejiang University, Hangzhou, China.</figcaption>
+</figure>
+
 # 2025.09
 
 <figure>
@@ -25,7 +32,7 @@ hide_footer: false
 
 <figure>
  <img src="/img/gallery/20250105.jpg" style="width: 50%; height: auto;"/>
- <figcaption>Birthday party for Junfeng and Ziyang. @ABao factory, China.</figcaption>
+ <figcaption>Birthday party for Junfeng and Ziyang. @Teaching D, China.</figcaption>
 </figure>
 
 <figure>
