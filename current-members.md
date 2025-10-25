@@ -7,5 +7,5 @@ hide_footer: false
 sort: subtitle
 hero_image: 
 image: 
-hero_height: 
+hero_height: is-small
 ---
