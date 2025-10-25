@@ -5,10 +5,10 @@
       link: /current-members/
     - name: Alumni
       link: /alumni/
-- name: Research
-  link: /research/
 - name: Publications
   link: /publications/
+- name: Research
+  link: /research/
 - name: News
   link: /news/
  #- name: Seminars
