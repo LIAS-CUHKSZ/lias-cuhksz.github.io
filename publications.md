@@ -51,4 +51,32 @@ hide_footer: false
 # 2021
 {% bibliography --query @*[year=2021] %}
 
+# 2020
+{% bibliography --query @*[year=2021] %}
 
+# 2019
+{% bibliography --query @*[year=2021] %}
+
+# 2018
+{% bibliography --query @*[year=2021] %}
+
+# 2017
+{% bibliography --query @*[year=2021] %}
+
+# 2016
+{% bibliography --query @*[year=2021] %}
+
+# 2015
+{% bibliography --query @*[year=2021] %}
+
+# 2014
+{% bibliography --query @*[year=2021] %}
+
+# 2013
+{% bibliography --query @*[year=2021] %}
+
+# 2012
+{% bibliography --query @*[year=2021] %}
+
+# 2011
+{% bibliography --query @*[year=2021] %}
