@@ -26,16 +26,7 @@ Our research focus on:
 
 # News
 
-[2025.09.09] &#0371611; **A paper was accepted by CoRL safe-ROL workshop!** Bokang Zhang, Chaojun Lu, Jianhui Li, Junfeng Wu, Exposing Vulnerabilities in RL: A Novel Stealthy Backdoor Attack through Reward Poisoning.
+[2025.09.09] 🎉 **A paper was accepted by CoRL safe-ROL workshop!** Bokang Zhang, Chaojun Lu, Jianhui Li, Junfeng Wu, Exposing Vulnerabilities in RL: A Novel Stealthy Backdoor Attack through Reward Poisoning.
 
 []
 
-# News
-{% assign posts = site.posts | where:"categories","news" %}
-<div class="columns is-multiline">
-    {% for post in posts %}
-    <div class="column is-4-desktop is-6-tablet">
-        {% include post-card.html %}
-    </div>
-    {% endfor %}
-</div>
