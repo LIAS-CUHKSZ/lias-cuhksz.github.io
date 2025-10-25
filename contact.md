@@ -7,6 +7,8 @@ hide_footer: false
 ---
 
 
+If you are interested in collaborating with us or becoming part of our team, please feel free to contact us at **junfengwu@cuhk.edu.cn**(Prof. Junfeng WU) or **ziyanghong@outlook.com**(Prof. Ziyang HONG).
+
 <!--
 ## How to reach our lab
 
