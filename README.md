@@ -1,61 +1,29 @@
-# LIAS Website
-
-本项目使用了 Next.js 来编写，目录结构可以参考 [Next.js 的文档](https://nextjs.org/docs/getting-started/project-structure)。
-
-如果需要新增内容，建议先将仓库拉去到本地，安装好 VScode 和 Nodejs，其中 VScode 需要安装 Eslint 插件，建议安装 yarn 包管理工具，然后在本地进行修改，修改完成后，使用 `git` 命令将修改推送到远程仓库。
-
-项目使用的是 yarn 来管理依赖。在 `git pull` 之后，需要使用 `yarn install` 来安装依赖，然后使用 `yarn dev` 来启动开发服务器。
-
-代码更新并且 `git push` 之后 GitHub 会自动进行构建，构建完成后，网站会自动更新，可以在仓库看到一个绿色的勾。如果代码存在错误或格式错误，GitHub 会自动构建失败，首页会看到一个红叉，此时需要在本地进行修改，然后再次推送。建议在本地先运行 `yarn build` 来检查代码是否存在错误，如果没有错误，再进行推送。
-
-有任何问题欢迎邮件联系我 [yuantuo666@gmail.com](mailto:yuantuo666@gmail.com)
-
-## 下面是默认 README.md
-
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-It also includes:
-
-- [x] [`flowbite`](https://flowbite.com)
-- [x] [`flowbite-react`](https://flowbite-react.com)
-- [x] [`react-icons`](https://react-icons.github.io/react-icons)
-- [x] [`tailwindcss`](https://tailwindcss.com)
-- [x] Quality of life tools, like
-  - [x] [`eslint`](https://eslint.org) with some plugins
-  - [x] [`prettier`](https://prettier.io)
-
-## Getting started
-
-`Next.js` requires [`Node.js`](https://nodejs.org).
-
-If you don't already have `npm` and `yarn` available, make sure you set them up.
-
+# Build with Docker
+Assuming you have Docker installed, pull the following image:
 ```bash
-npm i -g npm yarn
+$ docker pull jekyll/jekyll:latest
 ```
-
-Install the dependencies:
-
+Run a container:
 ```bash
-yarn install
+$ docker compose up
 ```
-
-Now you can run the development server:
-
+View the site here: `http://0.0.0.0:4000`
+# Build locally
+First install Jekyll according to [these instructions](https://jekyllrb.com/docs/installation/).
 ```bash
-yarn dev
+$ git clone https://github.com/castacks/website-dev
+$ cd website-dev
+$ bundle install
+$ bundle exec jekyll serve --watch --incremental
 ```
+This should start the web server locally, and enables incremental build.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Adding your profile
+Adding your profile is very simple. First follow the instructions above and launch the site. Then add a markdown page in the `_team` folder with your first name. Edit that file accordingly following the template of the other files in that folder. Also add your picture (resized to `640x480`) in the `img/team` folder. Then push those two files to the master branch of this repository and you're done!
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+# Adding your publication
+Edit the `_bibliography/references.bib` file to add your bibtex and commit to `master`.
 
-### Requirements
+[Please use this tools and url (it includes the settings) to format the bib file.](https://flamingtempura.github.io/bibtex-tidy/index.html?opt=%7B%22modify%22%3Atrue%2C%22curly%22%3Atrue%2C%22numeric%22%3Atrue%2C%22months%22%3Atrue%2C%22space%22%3A2%2C%22tab%22%3Atrue%2C%22align%22%3A13%2C%22sort%22%3A%5B%22-year%22%2C%22author%22%5D%2C%22duplicates%22%3A%5B%22key%22%2C%22doi%22%2C%22citation%22%2C%22abstract%22%5D%2C%22stripEnclosingBraces%22%3Atrue%2C%22dropAllCaps%22%3Afalse%2C%22escape%22%3Afalse%2C%22sortFields%22%3A%5B%22title%22%2C%22shorttitle%22%2C%22author%22%2C%22year%22%2C%22month%22%2C%22day%22%2C%22journal%22%2C%22booktitle%22%2C%22location%22%2C%22on%22%2C%22publisher%22%2C%22address%22%2C%22series%22%2C%22volume%22%2C%22number%22%2C%22pages%22%2C%22doi%22%2C%22isbn%22%2C%22issn%22%2C%22url%22%2C%22urldate%22%2C%22copyright%22%2C%22category%22%2C%22note%22%2C%22metadata%22%5D%2C%22stripComments%22%3Afalse%2C%22trailingCommas%22%3Afalse%2C%22encodeUrls%22%3Afalse%2C%22tidyComments%22%3Atrue%2C%22removeEmptyFields%22%3Afalse%2C%22removeDuplicateFields%22%3Atrue%2C%22generateKeys%22%3A%22%5Bauth%3Arequired%3Alower%5D%5Byear%3Arequired%5D%5Bveryshorttitle%3Alower%5D%5BduplicateNumber%5D%22%2C%22lowercase%22%3Atrue%2C%22backup%22%3Atrue%7D)
 
-- [x] [Node.js](https://nodejs.org/en/)
 
-## Deploy on `vercel`
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
