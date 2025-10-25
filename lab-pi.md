@@ -1,5 +1,5 @@
 ---
-title: Lab Leader
+title: Lab PI
 subtitle: 
 layout: team_members
 show_sidebar: false

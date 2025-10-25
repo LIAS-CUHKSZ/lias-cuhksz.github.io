@@ -1,8 +1,8 @@
 - name: Team
   link: /current-members/
   dropdown:
-    - name: Lab Leader
-      link: /lab-leader/
+    - name: Lab PI
+      link: /lab-pi/
     - name: Current Members
       link: /current-members/
     - name: Alumni
