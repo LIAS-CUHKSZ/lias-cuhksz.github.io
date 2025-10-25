@@ -3,6 +3,7 @@ layout: page
 title: Publications
 show_sidebar: false
 hide_footer: false
+hero_height: is-small
 ---
 
 <style>

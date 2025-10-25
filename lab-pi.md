@@ -3,6 +3,7 @@ title: Lab PI
 layout: labpi
 show_sidebar: false
 hide_footer: false
+hero_height: is-small
 ---
 
 <h1 style="font-size:35px;">Faculty</h1>
