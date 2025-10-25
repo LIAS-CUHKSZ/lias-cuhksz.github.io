@@ -24,9 +24,13 @@ Our research focus on:
 * Network systems, from multi-agent systems, sensor networks to social networks
 * Safety, security and privacy in information systems, such as cyber physical systems, machine learning algorithms
 
-# News
 
-[2025.09.09] 🎉 **A paper was accepted by CoRL safe-ROL workshop!** Bokang Zhang, Chaojun Lu, Jianhui Li, Junfeng Wu, Exposing Vulnerabilities in RL: A Novel Stealthy Backdoor Attack through Reward Poisoning.
 
-[]
-
+{% assign posts = site.posts | where:"categories","news" %}
+<div class="columns is-multiline">
+    {% for post in posts %}
+    <div class="column is-4-desktop is-6-tablet">
+        {% include post-card.html %}
+    </div>
+    {% endfor %}
+</div>
