@@ -16,7 +16,7 @@ hide_footer: false
 
 [2025.07.26] 🎉 **Shenzhen Special Zone Daily reported on our research!**
 
-<video width="480" height="854" controls>
+<video width="50%" height="auto" controls>
   <source src="/img/posts/2025-07-23-sznews/video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>s
