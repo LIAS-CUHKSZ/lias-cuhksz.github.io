@@ -1,6 +1,6 @@
 ---
 title: Lab PI
-layout: lab-pi
+layout: labpi
 show_sidebar: false
 hide_footer: false
 ---
