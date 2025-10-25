@@ -10,7 +10,7 @@ show_sidebar: false
 {% assign sorted_postdocs = site.team | where:"category","postdoc" %}
 {% for person in sorted_postdocs %}
 <div class="column is-one-fifth-desktop is-6-tablet">
-  <a href="{{ person.url | prepend: site.baseurl }}">s
+  <a href="{{ person.url | prepend: site.baseurl }}">
     <div class="card">
       {% if person.image %}
       <div class="card-image">
