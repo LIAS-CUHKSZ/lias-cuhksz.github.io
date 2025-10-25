@@ -16,44 +16,53 @@ hide_footer: false
 
 # 2025.05
 
+<figure>
  <img src="/img/gallery/20250310.jpg" style="width: auto; height: 50%;"/>
  <figcaption>Underwater robot team. From left to right: Qihang, Lingpeng, Shenyuan, Tengfei, Yifan, Hongxu. @ABao factory, China.</figcaption>
 </figure>
 
 # 2025.01
 
+<figure>
  <img src="/img/gallery/20250105.jpg" style="width: auto; height: 50%;"/>
  <figcaption>Birthday party for Junfeng and Ziyang. @ABao factory, China.</figcaption>
 </figure>
 
+<figure>
  <img src="/img/gallery/202501052.jpg" style="width: auto; height: 50%;"/>
  <figcaption>Birthday party gathering. From left to right: Shenyuan, Guangyang, Haodong, Ziyang, Kemi, Guodong, Qiuli, Junfeng, Hongxu, Junhu, Yifan. @Teaching D, CUHKSZ, China.</figcaption>
 </figure>
 
+<figure>
  <img src="/img/gallery/20250104.jpg" style="width: auto; height: 50%;"/>
  <figcaption>Coral observation and conservation project experiments with Apple Chui Pui Yi's team from the School of Life Sciences, The Chinese University of Hong Kong. From left to right: Shenyuan, Junfeng, Ziyang, Apple, Yuze, Yifan. @Simon F.S. Li Marine Science Laboratory, CUHK, HongKong.</figcaption>
 </figure>
 
 # 2024.11
 
+<figure>
  <img src="/img/gallery/20241030.jpg" style="width: auto; height: 50%;"/>
  <figcaption>Hiking trip. From left to right: Hongxu, Junfeng, Yifan, Ziyang, Haodong and his girlfriend. @Shenzhen, China.</figcaption>
 </figure>
 
 # 2023.12
 
+<figure>
  <img src="/img/gallery/gallary-20231229-1.jpg" style="width: auto; height: 50%;"/>
  <figcaption>Field experiment at dusk. From left to right: Wentao, Hongxu, Haodong. @Qingdao, Shandong, China.</figcaption>
 </figure>
 
+<figure>
  <img src="/img/gallery/gallary-20231229-2.jpg" style="width: auto; height: 50%;"/>
  <figcaption>Junfeng's visit to NTU. From left to right: Ziliang Lv (Ph.D. student at Tongji University), Junfeng, Lingying Huang (Postdoc at NTU). @NTU, Singapore.</figcaption>
 </figure>
 
+<figure>
  <img src="/img/gallery/gallary-20231229-3.jpg" style="width: auto; height: 50%;"/>
  <figcaption>Junfeng and Xinghan's visit to NUS. From left to right: Wanze Li, Sipu Ruan, Junfeng, Gregory S. Chirikjian (host at NUS), Hao Su (visitor from NC State University), Jikai Ye, Xinghan. @NUS, Singapore.</figcaption>
 </figure>
 
+<figure>
  <img src="/img/gallery/gallary-20231229-4.jpg" style="width: auto; height: 50%;"/>
  <figcaption>Retreat. From left to right: Guangyang, Haodong, Bokang, Junfeng, Xinghan, Hongxu, Wentao, Haoying. @Dongguan(东莞), China.</figcaption>
 </figure>
