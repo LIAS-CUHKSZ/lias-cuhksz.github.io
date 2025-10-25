@@ -1,5 +1,5 @@
 ---
-title: Current Members
+title: Lab Leader
 subtitle: 
 layout: team_members
 show_sidebar: false
