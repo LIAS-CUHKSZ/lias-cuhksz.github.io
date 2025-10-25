@@ -2,7 +2,7 @@
 title: Ziyang Hong
 subtitle: Research Assistant Professor
 job_title: Research Assistant Professor
-category: lab_head
+category: postdoc
 layout: team_member_personal_page
 image: /img/team/current_member/hongziyang.jpg
 ---
