@@ -10,8 +10,10 @@ hide_footer: false
 
 <figure>
  <img src="/img/gallery/20250910.jpg" />
- <figcaption>Teacher's Day gathering.</figcaption>
+ <figcaption>Teacher's Day gathering. From left to right: Jiakun, Guangyang, Qihang, Yuxiang, Ziyang, Liuyu, Boyong, Mingzhe, Junfeng, Tengfei, Haodong, Shen Yuan, Haoying. @Zhinxin Building, CUHKSZ, September, China.</figcaption>
 </figure>
 
+
+# 2025.05
 
 
