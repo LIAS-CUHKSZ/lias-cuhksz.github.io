@@ -1,7 +1,7 @@
 ---
 title: Lab PI
 subtitle: 
-layout: team_members
+layout: lab_pi
 show_sidebar: false
 hide_footer: false
 sort: subtitle
