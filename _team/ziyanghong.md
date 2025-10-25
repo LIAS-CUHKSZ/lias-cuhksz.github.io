@@ -1,6 +1,6 @@
 ---
 title: Ziyang Hong
-subtitle: Research Assistant Professor
+subtitle: RAP
 job_title: Research Assistant Professor
 category: postdoc
 layout: team_member_personal_page
