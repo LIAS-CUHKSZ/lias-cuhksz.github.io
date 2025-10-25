@@ -9,6 +9,6 @@ image: /img/team/current_member/zhangtengfei.jpg
 link-new-tab: true
 ---
 
-**Yuxiang Zou** received his B.Eng. degree from Xidian University.
+**Tengfei Zhang** received his B.Eng. degree from Xidian University.
 
 **Duration:** 2025/03/01 – present 
