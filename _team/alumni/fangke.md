@@ -17,4 +17,4 @@ advisors:
 
 **Duration:** 2019/09/21 - 2025/03
 
-**Current Position:** Postdoctoral Researcher at the University of Electronic Science and Technology of China
+**Current Position:** Postdoctoral Researcher at the University of Electronic Science and Technology of China.
