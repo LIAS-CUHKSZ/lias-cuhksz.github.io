@@ -7,7 +7,7 @@ hide_footer: false
 sort: subtitle
 hero_image: 
 image: 
-hero_height: 
+hero_height: is-small
 ---
 
 <h1 style="font-size:35px;">Faculty</h1>
