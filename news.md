@@ -16,10 +16,12 @@ hide_footer: false
 
 [2025.07.26] 🎉 **Shenzhen Special Zone Daily reported on our research!**
 
-<video width="50%" height="auto" controls>
-  <source src="/img/posts/2025-07-23-sznews/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>s
+<div style="text-align: center; margin: 20px 0;">
+  <video width="50%" height="auto" controls style="max-width: 640px;">
+    <source src="/img/posts/2025-07-23-sznews/video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 [2025.07.17] 🎉 **A paper was accepted by 2025 64th IEEE Conference on Decision and Control (CDC)!** ianhui Li, Shi Pu, Jianqi Chen, Junfeng Wu, Linear Convergence Analysis of A Single-loop Algorithm for Bilevel Optimization via Small-gain Theorem.
 
