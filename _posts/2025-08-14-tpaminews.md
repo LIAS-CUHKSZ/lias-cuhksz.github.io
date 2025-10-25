@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A paper was accepted by TPAMI!"
+title:  "A paper was accepted by "
 date:   2025-08-14 23:46:07
 categories: news
 author: "Guangyang Zeng"
