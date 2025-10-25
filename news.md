@@ -14,6 +14,13 @@ hide_footer: false
 
 [2025.08.06] 🌟 **Dr. Yulong Gao and Dr. Pian Yu visited LIAS.** Dr. Junfeng Wu hosted their talks in CUHKSZ School of Data Science Topical Seminar on Safe and Efficient Control with Provable Guarantees.
 
+[2025.07.26] 🎉 **Shenzhen Special Zone Daily reported on our research!**
+
+<video width="480" height="854" controls>
+  <source src="/img/posts/2025-07-23-sznews/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>s
+
 [2025.07.17] 🎉 **A paper was accepted by 2025 64th IEEE Conference on Decision and Control (CDC)!** ianhui Li, Shi Pu, Jianqi Chen, Junfeng Wu, Linear Convergence Analysis of A Single-loop Algorithm for Bilevel Optimization via Small-gain Theorem.
 
 [2025.07.17] 🎉 **A paper was accepted by 2025 64th IEEE Conference on Decision and Control (CDC)!** Junfeng Wu, Wei Chen, Li Qiu, Understanding Stabilizability of Feedback Control from First-Order System with One-step Random Delay.
