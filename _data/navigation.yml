@@ -1,5 +1,5 @@
 - name: Team
-  link: /current-members/
+  link: /lab-pi/
   dropdown:
     - name: Lab PI
       link: /lab-pi/
@@ -13,20 +13,6 @@
   link: /research/
 - name: News
   link: /news/
- #- name: Seminars
- #  dropdown:
- #    - name: 2020 Summer School
- #      link: /summer2020/
-  #   - name: 2021 Tartan SLAM Series
-  #     link: /tartanslamseries/
-  #   - name: 2021 Tartan SLAM Series Fall Edition
-  #     link: /tartanslamseries2/
-   #  - name: 2023 Tartan Planning Series
-   #    link: /tartanplanningseries/
-   #  - name: 2024 ICRA Off-road Workshop
-   #    link: /icra2024_offroad_workshop/
-#- name: Datasets
-#  link: /datasets/
 - name: Gallery
   link: /gallery/
 #- name: Contact
