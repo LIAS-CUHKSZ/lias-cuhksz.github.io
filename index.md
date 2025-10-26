@@ -9,7 +9,7 @@ hero_image: /img/homepage_slideshow.gif
 hero_link: /publications/
 hero_link_text: Academic Paper
 
-hero_link2: /current-members/
+hero_link2: /lab-pi/
 hero_link_text2: Team
 ---
 
