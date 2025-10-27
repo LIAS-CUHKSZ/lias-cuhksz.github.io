@@ -735,3 +735,79 @@
 .button-disabled {
     pointer-events: none;
 }
+
+.button-filter7-ON {
+    background-color: #FFD700;
+    border: 2px solid #FFD700;
+    color: black;
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    font-weight: bold;
+    margin: 2px 1px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.button-filter7-ON:hover {
+    background-color: lightgray;
+}
+
+.button-filter7-OFF {
+    background-color: white;
+    border: 2px solid #FFD700;
+    color: black;
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    font-weight: bold;
+    margin: 2px 1px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.button-filter7-OFF:hover {
+    background-color: lightgray;
+}
+
+.button-filter8-ON {
+    background-color: #66B2FF;
+    border: 2px solid #66B2FF;
+    color: black;
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    font-weight: bold;
+    margin: 2px 1px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.button-filter8-ON:hover {
+    background-color: lightgray;
+}
+
+.button-filter8-OFF {
+    background-color: white;
+    border: 2px solid #66B2FF;
+    color: black;
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    font-weight: bold;
+    margin: 2px 1px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.button-filter8-OFF:hover {
+    background-color: lightgray;
+}
