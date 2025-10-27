@@ -9,7 +9,7 @@ title: Junfeng Wu
 subtitle: Associate Professor
 job_title: Associate Professor
 category: lab_head
-layout: team_member_personal_page
+layout: page
 image: /img/team/current_member/wujunfeng1.jpg
 ---
 
