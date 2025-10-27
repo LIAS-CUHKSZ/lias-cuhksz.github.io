@@ -6,8 +6,8 @@
 # hero_height: is-small
 
 title: Junfeng Wu
-subtitle: Associate Professor
-job_title: Associate Professor
+subtitle: Associate Professor (Lab PI)
+job_title: Associate Professor (Lab PI)
 category: lab_head
 layout: team_member_personal_page1
 image: /img/team/current_member/wujunfeng1.jpg
