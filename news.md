@@ -6,6 +6,7 @@ hide_footer: false
 hero_height: is-small
 ---
 
+[2025.10.20] 🌟 Our group memebers Ziyang, Haoying, Haodong, Hongxu, Shenyuan, Tengfei, Junfeng, Guangyang attended IROS2025.
 
 [2025.09.09] 🎉 **A paper was accepted by Conference on Robot Learning, safe-ROL workshop!** Bokang Zhang, Chaojun Lu, Jianhui Li, Junfeng Wu, Exposing Vulnerabilities in RL: A Novel Stealthy Backdoor Attack through Reward Poisoning.
 
