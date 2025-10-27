@@ -11,7 +11,7 @@ hero_height: is-small
 
 <figure>
  <img src="/img/gallery/202510.jpg" style="width: 50%; height: auto;"/>
- <figcaption>2025 IROS gathering. From left to right: Ziyang, Yuchi's wife, Haoying, Qingcheng, Hongxu, Shenyuan, Tengfei, Junfeng, Guangyang, Yuchi. @Zhejiang University, Hangzhou, China.</figcaption>
+ <figcaption>2025 IROS gathering. From left to right: Ziyang, Yuchi's wife, Haoying, Qingcheng, Hongxu, Shenyuan, Tengfei, Junfeng, Guangyang, Yuchi. @Hangzhou International Expo Center (HIEC), Hangzhou, China.</figcaption>
 </figure>
 
 # 2025.09
