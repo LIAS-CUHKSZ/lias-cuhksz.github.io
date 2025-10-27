@@ -11,6 +11,7 @@ job_title: Associate Professor
 category: lab_head
 layout: team_member_personal_page1
 image: /img/team/current_member/wujunfeng1.jpg
+show_sidebar: false
 ---
 
 
