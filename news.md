@@ -15,7 +15,7 @@ hero_height: is-small
 
 [2025.08.06] 🌟 **Dr. Yulong Gao and Dr. Pian Yu visited LIAS.** Dr. Junfeng Wu hosted their talks in CUHKSZ School of Data Science Topical Seminar on Safe and Efficient Control with Provable Guarantees.
 
-[2025.07.26] 🎉 **Shenzhen Special Zone Daily reported on our research!**
+[2025.07.26] 🎉 **Our research on Marine robotics was featured in Shenzhen Special Zone Daily!**
 
 <div style="text-align: center; margin: 20px 0;">
   <video width="22%" height="auto" controls style="max-width: 640px;">
