@@ -28,11 +28,11 @@ Junfeng Wu is an Associate Professor at The Chinese University of HongKong, Shen
 
 Areas of interest:
 
-1. Coordination of Multi-agent systems, distributed systems.
+1. Underwater Robotics.
 
 2. Sensing, Estimation and control systems, Kalman filtering, localization, state estimation in robotics
 
-3. Network systems, sensor networks to social networks
+3. Coordination of Multi-agent systems, distributed systems
 
 4. Security and privacy in information systems, such as cyber physical systems, machine learning algorithms
 
