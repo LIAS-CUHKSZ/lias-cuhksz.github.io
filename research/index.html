@@ -55,11 +55,19 @@ hero_height: is-small
 	  tag_set.add(split[j])
       }
   }
+  const priorityTags = ['UnderwaterSLAM', 'StateEstimation', 'Robustness', 'Multi-robotSLAM'];
+
   tag_set = Array.from(tag_set).sort((a, b) => {
-      if (a === 'UnderwaterSLAM') return -1;
-      if (b === 'UnderwaterSLAM') return 1;
+      const indexA = priorityTags.indexOf(a);
+      const indexB = priorityTags.indexOf(b);
+      
+      if (indexA !== -1 && indexB !== -1) {
+          return indexA - indexB;
+      }
+      if (indexA !== -1) return -1;
+      if (indexB !== -1) return 1;
       return a.localeCompare(b);
-});
+  });
   buttons = []
 
   selected_tag_set = new Set()
