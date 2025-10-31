@@ -55,7 +55,11 @@ hero_height: is-small
 	  tag_set.add(split[j])
       }
   }
-  tag_set = Array.from(tag_set).sort()
+  tag_set = Array.from(tag_set).sort((a, b) => {
+      if (a === 'UnderwaterSLAM') return -1;
+      if (b === 'UnderwaterSLAM') return 1;
+      return a.localeCompare(b);
+});
   buttons = []
 
   selected_tag_set = new Set()
