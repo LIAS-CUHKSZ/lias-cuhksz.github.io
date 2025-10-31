@@ -16,7 +16,7 @@ hero_link_text2: Team
 # Who are we?
 We are the Laboratory for Intelligent Autonomous Systems from [School of Data Science](https://sds.cuhk.edu.cn/) at [The Chinese University of HongKong, ShenZhen](https://www.cuhk.edu.cn/).
 
-Our research focus on:
+Our research focuses on:
 
 * Underwater intelligent autonomous robotics
 * Localization, state estimation and navigation in robotics
