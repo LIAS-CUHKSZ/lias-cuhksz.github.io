@@ -10,6 +10,11 @@ hero_height: is-small
 # 2025.10
 
 <figure>
+ <img src="/img/gallery/20251031.jpg" style="width: 50%; height: auto;"/>
+ <figcaption>Field experiment team. From left to right: liuyu, Shenyuan, Junfeng, Zhoubin(from Shen Zhen Ocean University), Jiakun, Lingpeng, Qihang, Yifan. @Shenzhen, China.</figcaption>
+</figure>
+
+<figure>
  <img src="/img/gallery/202510.jpg" style="width: 50%; height: auto;"/>
  <figcaption>2025 IROS gathering. From left to right: Ziyang, Chi Xiao, Haoying, Qingcheng, Hongxu, Shenyuan, Tengfei, Junfeng, Guangyang, Yuchi. @Hangzhou International Expo Center (HIEC), Hangzhou, China.</figcaption>
 </figure>
