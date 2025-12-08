@@ -6,6 +6,10 @@ hide_footer: false
 hero_height: is-small
 ---
 
+[2025.12.08] 🎉 Prof. Junfeng WU will serve as Associate Editor of the IEEE Robotics and Automation Letters.
+
+[2025.12.03] 🎉 **A paper was accepted by IEEE TSP!** Shenghua Hu, Guangyang Zeng, Wenchao Xue, Haitao Fang, Junfeng Wu, and Biqiang Mu, RSS-Based Localization: Ensuring Consistency and Asymptotic Efficiency
+
 [2025.11.27] 🌟 Junfeng is visiting UCL at London from Nov to Dec 2025.
 
 [2025.10.20] 🌟 Our group memebers Ziyang, Haoying, Haodong, Hongxu, Shenyuan, Tengfei, Junfeng, Guangyang attended IROS2025.
