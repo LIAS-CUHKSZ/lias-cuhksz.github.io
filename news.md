@@ -31,7 +31,7 @@ hero_height: is-small
   </video>
 </div>
 
-[2025.07.17] 🎉 **A paper was accepted by 2025 64th IEEE Conference on Decision and Control (CDC)!** ianhui Li, Shi Pu, Jianqi Chen, Junfeng Wu, Linear Convergence Analysis of A Single-loop Algorithm for Bilevel Optimization via Small-gain Theorem.
+[2025.07.17] 🎉 **A paper was accepted by 2025 64th IEEE Conference on Decision and Control (CDC)!** Jianhui Li, Shi Pu, Jianqi Chen, Junfeng Wu, Linear Convergence Analysis of A Single-loop Algorithm for Bilevel Optimization via Small-gain Theorem.
 
 [2025.07.17] 🎉 **A paper was accepted by 2025 64th IEEE Conference on Decision and Control (CDC)!** Junfeng Wu, Wei Chen, Li Qiu, Understanding Stabilizability of Feedback Control from First-Order System with One-step Random Delay.
 
