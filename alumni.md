@@ -11,7 +11,7 @@ hero_height: is-small
 <h1 style="font-size:35px;">Former Research Assistant Professor</h1>
 <br>
 <div class="columns is-multiline">
-{% assign sorted_person = site.team | where:"category","pastphd" | sort: "graduation_year" | reverse %}
+{% assign sorted_person = site.team | where:"category","pastrap" | sort: "graduation_year" | reverse %}
 {% for person in sorted_person %}
 <div class="column is-one-fifth-desktop is-6-tablet">
   <a href="{{ person.url | prepend: site.baseurl }}">

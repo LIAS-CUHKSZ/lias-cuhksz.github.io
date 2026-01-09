@@ -3,7 +3,7 @@ title: Ziyang Hong
 subtitle: RAP
 job_title: Research Assistant Professor
 category: postrap
-layout: team_member_personal_page
+layout: team_past_member_personal_page
 image: /img/team/current_member/hongziyang.jpg
 starting_year: 2024
 graduation_year: 2025
