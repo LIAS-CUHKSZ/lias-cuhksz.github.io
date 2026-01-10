@@ -14,6 +14,6 @@ link-new-tab: true
 
 **Duration:** 2024/08 - 2025/12
 
-**Current Position:** Associate Professor from Harbin Institute of Technology
+**Current Position:** Associate Professor from Harbin Institute of Technology, Shenzhen.
 
 **Personal Website:** [https://sites.google.com/view/ziyanghong/home](https://sites.google.com/view/ziyanghong/home)
