@@ -10,9 +10,9 @@ graduation_year: 2025
 link-new-tab: true
 ---
 
-**Ziyang Hong** is currently an Associate Professor from Harbin Institute of Technology, Shenzhen. He received his B.Sc. degree in Electronic and Information Engineering from Shantou University, China, and his M.Sc. degree in Vision and Robotics from Heriot-Watt University, UK. He obtained his Ph.D. degree from Heriot-Watt University, UK. His research interests include Mobile Robotics, State Estimation, Simultaneous Localization and Mapping, Autonomous Driving, Robot Learning, Computer Vision, Radar-based Perception, and Underwater Robotics.
+**Ziyang Hong** is currently an Associate Professor from Harbin Institute of Technology, Shenzhen. He received his B.Sc. degree in Electronic and Information Engineering from Shantou University, China, and his M.Sc. degree in Vision and Robotics from Heriot-Watt University, UK. He obtained his Ph.D. degree from Heriot-Watt University, UK. His research interests include Underwater Robotics, Mobile Robotics, State Estimation, Simultaneous Localization and Mapping, Autonomous Driving, Robot Learnin, Computer Vision, Radar-based Perception.
 
-**Duration:** Research Assistant Professor (2024/08 - 2025/12)
+**Duration:** 2024/08 - 2025/12
 
 **Current Position:** Associate Professor from Harbin Institute of Technology
 
