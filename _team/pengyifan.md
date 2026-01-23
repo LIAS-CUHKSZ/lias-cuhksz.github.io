@@ -13,4 +13,4 @@ link-new-tab: true
 
 **Duration:** 2025/09/01 – present
 
-**Personal Website: [effun.xzy](effun.xzy)**
+**Personal Website: [effun.xyz](https://effun.xyz)**
