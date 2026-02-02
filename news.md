@@ -12,7 +12,7 @@ hero_height: is-small
 
 [2026.01.31] 🎉 **A paper was accepted by 2026 IEEE International Conference on Robotics and Automation (ICRA)!** Yuan Shen and Yuze Hong and Guangyang Zeng and Tengfei Zhang and Pui Yi Chui and Ziyang Hong and Junfeng Wu, GeVI-SLAM: Gravity-Enhanced Stereo Visua Inertial SLAM for Underwater Robots
 
-[2026.01.30] 🌟 **Dr. Jianhao Jiao visited LIAS.** Dr. Junfeng Wu hosted their talks in CUHKSZ School of Data Science Topical Seminar on SLAM for Robotics: Lifelong Spatial Memory and Navigation in Unstructured Worlds.
+[2026.01.30] 🌟 **Dr. Jianhao Jiao visited LIAS.** Dr. Junfeng Wu hosted his talk in CUHKSZ School of Data Science Topical Seminar on SLAM for Robotics: Lifelong Spatial Memory and Navigation in Unstructured Worlds.
 
 [2025.12.08] 🎉 Prof. Junfeng WU will serve as Associate Editor of the IEEE Robotics and Automation Letters.
 
