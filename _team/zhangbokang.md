@@ -12,3 +12,5 @@ link-new-tab: true
 **Bokang ZHANG** received his B.Eng. degree from Zhejiang University. His research interests include AI and Cyber privacy and security.
 
 **Duration:** 2021/09/01 – present
+
+**Personal Website: [https://bokangz.github.io/](https://bokangz.github.io/)**
