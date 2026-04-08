@@ -37,7 +37,7 @@ Our research focuses on:
 
 # Contact
 
-If you are interested in collaborating with us or becoming part of our team, please feel free to contact us at **liumeiqi@cuhk.edu.cn** (Contact Person: Meiqi Liu).
+If you are interested in collaborating with us or becoming part of our team, please feel free to contact us at **junfengwu@cuhk.edu.cn** (Contact Person: Junfeng Wu).
 
 Office: 422 Zhixin Building, CUHK-SZ, 2001 Longxiang Boulevard, Longgang District, Shenzhen, Guangdong Province, P. R. China
 
