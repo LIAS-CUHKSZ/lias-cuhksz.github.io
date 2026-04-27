@@ -6,6 +6,8 @@ hide_footer: false
 hero_height: is-small
 ---
 
+[2026.04.14] 🎉 **A paper was accepted by Robotics: Science and Systems (RSS) 2026!** Guangyang Zeng and Yulong Gao and Yuan Shen and Lingpeng Chen and Haoying Li and Guodong Shi and Junfeng Wu, Supervisory Measurement-Guided NoiseCovariance Estimation: Discussing Forwardand Reverse Differentiation.
+
 [2026.04.14] 🎉 **A paper was accepted by IFAC World Congress 2026!** Haoying Li and Yifan Peng and Yuchi Wu and Junfeng Wu, Supervisory Measurement-Guided NoiseCovariance Estimation: Discussing Forwardand Reverse Differentiation.
 
 [2026.01.31] 🎉 **A paper was accepted by 2026 IEEE International Conference on Robotics and Automation (ICRA)!** Lingpeng Chen and Jiakun Tang and Apple Pui-Yi Chui and Ziyang Hong and Junfeng Wu, SonarSweep: Fusing Sonar and Vision for Robust 3D Reconstruction via Plane Sweeping.
