@@ -6,6 +6,12 @@ hide_footer: false
 hero_height: is-small
 ---
 
+[2026.06.16] 🎉 **A paper was accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems 2026!** Hongxu Zhao, Guangyang Zeng, Yunling Shao, Tengfei Zhang, Junfeng Wu, Spatiotemporal Calibration of Doppler Velocity Logs for Underwater Robots.
+
+[2026.06.16] 🎉 **A paper was accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems 2026!** Lingpeng Chen, Yuchen Zheng, Apple Pui-Yi Chui, Junfeng Wu and Ziyang Hong, Hierarchical Multi-Modal Planning for Fixed-Altitude Sparse Benthic Target Search and Sampling.
+
+[2026.06.16] 🎉 **A paper was accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems 2026!** Boyong Zhao, Yuan Shen, Pui Yi Chui, Yuzhe Li, Junfeng Wu, AquaPoint: Self-Supervised Cross-Domain Framework for Robust Underwater Local Features.
+
 [2026.04.27] 🎉 **A paper was accepted by Robotics: Science and Systems (RSS) 2026!** Guangyang Zeng and Yulong Gao and Yuan Shen and Lingpeng Chen and Haoying Li and Guodong Shi and Junfeng Wu, Provably Guaranteed Polytopic Uncertainty Quantification for SLAM.
 
 [2026.04.14] 🎉 **A paper was accepted by IFAC World Congress 2026!** Haoying Li and Yifan Peng and Yuchi Wu and Junfeng Wu, Supervisory Measurement-Guided NoiseCovariance Estimation: Discussing Forwardand Reverse Differentiation.
