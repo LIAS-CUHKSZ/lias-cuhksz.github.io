@@ -6,6 +6,8 @@ hide_footer: false
 hero_height: is-small
 ---
 
+[2026.07.01] 🌟 **Prof. Zhuoyi Song visited LIAS**. Dr. Junfeng Wu hosted her talk in CUHKSZ School of Data Science Topical Seminar on The Miniature Marvel: How the Tiny Insect Brain Inspires Lightweight AI.
+
 [2026.06.16] 🎉 **A paper was accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems 2026!** Hongxu Zhao, Guangyang Zeng, Yunling Shao, Tengfei Zhang, Junfeng Wu, Spatiotemporal Calibration of Doppler Velocity Logs for Underwater Robots.
 
 [2026.06.16] 🎉 **A paper was accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems 2026!** Lingpeng Chen, Yuchen Zheng, Apple Pui-Yi Chui, Junfeng Wu and Ziyang Hong, Hierarchical Multi-Modal Planning for Fixed-Altitude Sparse Benthic Target Search and Sampling.
