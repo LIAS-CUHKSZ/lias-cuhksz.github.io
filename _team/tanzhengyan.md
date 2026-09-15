@@ -3,6 +3,7 @@ title: Zhengyan Tan
 subtitle: Research Assistant
 job_title: Research Assistant
 category: RA
+join_date: 2026-09-01
 layout: team_member_personal_page
 image: /img/team/current_member/tanzhengyan.png
 link-new-tab: true
