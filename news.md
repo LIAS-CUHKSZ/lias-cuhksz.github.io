@@ -6,6 +6,8 @@ hide_footer: false
 hero_height: is-small
 ---
 
+[2026.09.15] 🎉 **A paper was accepted by 2026 Conference on Robot Learning (CoRL)!** Haoying Li, Qihang Liu, Yifan Peng, Keyan Miao and Junfeng Wu, PLATO: Preintegration Learning from Accurate Trajectory Observations for Neural Inertial Odometry.
+
 [2026.07.01] 🌟 **Prof. Zhuoyi Song visited LIAS**. Dr. Junfeng Wu hosted her talk in CUHKSZ School of Data Science Topical Seminar on The Miniature Marvel: How the Tiny Insect Brain Inspires Lightweight AI.
 
 [2026.06.16] 🎉 **A paper was accepted by IEEE/RSJ International Conference on Intelligent Robots and Systems 2026!** Hongxu Zhao, Guangyang Zeng, Yunling Shao, Tengfei Zhang, Junfeng Wu, Spatiotemporal Calibration of Doppler Velocity Logs for Underwater Robots.
