@@ -1,14 +1,16 @@
 ---
 title: Zimin Chen
-subtitle: Mphil Student
-job_title: Mphil Student
-category: master
+subtitle: MPhil
+job_title: MPhil
+category: pastmaster
 join_date: 2023-09-01
-layout: team_member_personal_page
+starting_year: 2023
+graduation_year: 2026
+layout: team_past_member_personal_page1
 image: /img/team/current_member/chenzimin.jpg
 link-new-tab: true
 ---
 
 **Zimin CHEN** received his B.Eng. degree from the Chinese University of Hong Kong, Shenzhen.
 
-**Duration:** 2023/09/01 – present (Co-supervised with Prof. Tianlin Lin); 2022/06/01 - present.
+**Duration:** 2023/09/01 – 2026 (Co-supervised with Prof. Tianlin Lin); 2022/06/01 - 2026.
