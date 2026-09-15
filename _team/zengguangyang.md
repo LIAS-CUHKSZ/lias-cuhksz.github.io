@@ -7,7 +7,7 @@ layout: team_past_member_personal_page1
 image: /img/team/current_member/zengguangyang.jpg
 starting_year: 2022
 graduation_year: 2026
-current_status: Associate Professor at Harbin Institute of Technology, Shenzhen
+
 link-new-tab: true
 ---
 
