@@ -5,7 +5,7 @@ job_title: Ph.D. Student
 category: phd
 join_date: 2025-01-05
 layout: team_member_personal_page
-image: /img/team/current_member/zhaohongxu.jpg
+image: /img/team/current_member/zhaohongxu-3.png
 link-new-tab: true
 ---
 
