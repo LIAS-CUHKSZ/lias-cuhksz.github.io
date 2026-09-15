@@ -3,6 +3,7 @@ title: Yanglin Zhang
 subtitle: MPhil
 job_title: MPhil
 category: pastmaster
+join_date: 2023-09-01
 layout: team_past_member_personal_page
 image: /img/team/current_member/zhangyanglin.jpg
 starting_year: 2023
