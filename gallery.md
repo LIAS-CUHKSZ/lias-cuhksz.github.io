@@ -7,6 +7,48 @@ hide_footer: false
 hero_height: is-small
 ---
 
+# 2026.09
+
+Joint underwater experiments with the Guangdong Provincial Environmental Monitoring Center at the Xuwen National Coral Conservation Base in Zhanjiang, China, on September 10, 2026.
+
+<style>
+  .content .gallery-row-20260910 {
+    display: grid;
+    grid-template-columns: 0.463fr 1.333fr 0.462fr;
+    gap: 16px;
+    align-items: start;
+    margin-bottom: 2rem;
+  }
+  .content .gallery-row-20260910 figure {
+    min-width: 0;
+    margin: 0;
+  }
+  .content .gallery-row-20260910 img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  @media screen and (max-width: 768px) {
+    .content .gallery-row-20260910 {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+
+<div class="gallery-row-20260910">
+  <figure>
+    <img src="/img/gallery/20260910-1.jpg" alt="Junfeng, Qihang, Huiran and Mingzhe preparing an underwater robot on a boat" loading="lazy" />
+    <figcaption>From left to right: Junfeng, Qihang, Huiran, Mingzhe.</figcaption>
+  </figure>
+  <figure>
+    <img src="/img/gallery/20260910-2.jpg" alt="Junfeng and Liyong with an underwater robot" loading="lazy" />
+    <figcaption>Junfeng and Liyong.</figcaption>
+  </figure>
+  <figure>
+    <img src="/img/gallery/20260910-3.jpg" alt="Underwater robot deployment during the joint experiments in Xuwen, Zhanjiang" loading="lazy" />
+  </figure>
+</div>
+
 # 2025.10
 
 <figure>
