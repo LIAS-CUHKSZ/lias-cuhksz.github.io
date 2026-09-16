@@ -5,7 +5,7 @@ job_title: Ph.D. Student
 category: phd
 join_date: 2022-09-01
 layout: team_member_personal_page
-image: /img/team/current_member/lihaoying2.png
+image: /img/team/current_member/lihaoying.png
 link-new-tab: true
 ---
 
