@@ -9,6 +9,6 @@ image: /img/team/current_member/tanzhengyan.png
 link-new-tab: true
 ---
 
-**Zhengyan Tan** studied Computer Engineering at The Hong Kong University of Science and Technology from 2022 to 2026. His research interests include embodied intelligence, reinforcement learning, and robot learning.
+**Zhengyan Qin** studied Computer Engineering at The Hong Kong University of Science and Technology from 2022 to 2026. His research interests include embodied intelligence, reinforcement learning, and robot learning.
 
 **Duration:** 2026/09/01 – present
